@@ -4,7 +4,7 @@
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<title>Haleasi Travel – Just another Love Travel</title>
+		<title>Haleasi Travel</title>
 		<link rel="dns-prefetch" href="http://fonts.googleapis.com/">
 		<link rel="dns-prefetch" href="http://s.w.org/">
 		<!-- <link rel="alternate" type="application/rss+xml" title="Haleasi Travel » Feed" href="http://www.nicdarkthemes.com/themes/travel/wp/demo/travel/feed/">
@@ -107,7 +107,7 @@
 					<div class="menu-menu-1-container">
 						<ul id="menu-menu-1" class="menu">
 							<li id="menu-item-55" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-53 current_page_item menu-item-55"><a href="javascript:;" aria-current="page">Contact</a></li>
-							<li id="menu-item-52" class="nd_options_book_now_btn menu-item menu-item-type-post_type menu-item-object-page menu-item-52"><a href="http://www.nicdarkthemes.com/themes/travel/wp/demo/travel/search-1/">BOOK NOW</a></li>
+							<li id="menu-item-52" class="nd_options_book_now_btn menu-item menu-item-type-post_type menu-item-object-page menu-item-52"><a href="tel:+91 98765 43210">Call Now</a></li>
 							<!-- <li id="menu-item-51" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-51">
 								<a href="http://www.nicdarkthemes.com/themes/travel/wp/demo/travel/search-1/">PACKAGES</a>
 								<ul class="sub-menu">
@@ -188,7 +188,7 @@
 									<div class="nd_options_display_table_cell nd_options_vertical_align_middle">
 										<div class="menu-menu-1-container">
 											<ul id="menu-menu-2" class="menu">
-												<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-53 current_page_item menu-item-55"><a href="javascript:;" aria-current="page">Contact</a></li>
+												<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-53 current_page_item menu-item-55"><a href="#contact-us" aria-current="page">Contact</a></li>
 												<li id="menu-item-52" class="nd_options_book_now_btn menu-item menu-item-type-post_type menu-item-object-page menu-item-52"><a href="tel:+91 98765 43210">Call Now</a></li>
 												<!--<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-53 current_page_item menu-item-55"><a href="http://www.nicdarkthemes.com/themes/travel/wp/demo/travel/" aria-current="page">HOME</a></li>
 												<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-51">
@@ -491,8 +491,8 @@
 							</div>
 						</div>
 					</div>
-					<div class="vc_row wpb_row vc_row-fluid">
-						{{-- <div class="wpb_column vc_column_container vc_col-sm-12" id="nd_options_home_1_tab_search">
+					{{-- <div class="vc_row wpb_row vc_row-fluid">
+						<div class="wpb_column vc_column_container vc_col-sm-12" id="nd_options_home_1_tab_search">
 							<div class="vc_column-inner vc_custom_1524728256104">
 								<div class="wpb_wrapper">
 									<div class="vc_tta-container" data-vc-action="collapse" id="nd_options_tab_sidebar">
@@ -672,8 +672,8 @@
 									</div>
 								</div>
 							</div>
-						</div> --}}
-					</div>
+						</div>
+					</div> --}}
 					<div class="vc_row wpb_row vc_row-fluid vc_custom_1523541500622">
 						<div class="wpb_column vc_column_container vc_col-sm-12">
 							<div class="vc_column-inner ">
@@ -1028,7 +1028,7 @@
 														<div class="nd_travel_position_absolute nd_travel_top_0 nd_travel_left_0 nd_travel_width_100_percentage nd_travel_text_align_center">
 															<a class="nd_travel_destinations_pg_l1_price nd_travel_display_inline_block nd_travel_text_transform_uppercase nd_travel_bg_white nd_travel_padding_10_20" href="javascript:;">Laxmi Narayan Birla Temple</a>
 														</div>
-														<img alt="" class="nd_travel_section" src="{{ asset('assets/images/destination-10.jpg') }}">
+														<img alt="" class="nd_travel_section" src="{{ asset('assets/images/destination/laxminarayan-birla-temple.png') }}">
 													</div>
 												</div>
 											</div>
@@ -1040,7 +1040,7 @@
 														<div class="nd_travel_position_absolute nd_travel_top_0 nd_travel_left_0 nd_travel_width_100_percentage nd_travel_text_align_center">
 															<a class="nd_travel_destinations_pg_l1_price nd_travel_display_inline_block nd_travel_text_transform_uppercase nd_travel_bg_white nd_travel_padding_10_20" href="javascript:;">Rashtrapati Bhavan</a>
 														</div>
-														<img alt="" class="nd_travel_section" src="{{ asset('assets/images/destination-6.jpg') }}">
+														<img alt="" class="nd_travel_section" src="{{ asset('assets/images/destination/rashtrapati-bhavan.png') }}">
 													</div>
 												</div>
 											</div>
@@ -1052,7 +1052,7 @@
 														<div class="nd_travel_position_absolute nd_travel_top_0 nd_travel_left_0 nd_travel_width_100_percentage nd_travel_text_align_center">
 															<a class="nd_travel_destinations_pg_l1_price nd_travel_display_inline_block nd_travel_text_transform_uppercase nd_travel_bg_white nd_travel_padding_10_20" href="javascript:;">Vijay Chowk</a>
 														</div>
-														<img alt="" class="nd_travel_section" src="{{ asset('assets/images/destination-20.jpg') }}">
+														<img alt="" class="nd_travel_section" src="{{ asset('assets/images/destination/vijay-chowk.png') }}">
 													</div>
 												</div>
 											</div>
@@ -1064,7 +1064,103 @@
 														<div class="nd_travel_position_absolute nd_travel_top_0 nd_travel_left_0 nd_travel_width_100_percentage nd_travel_text_align_center">
 															<a class="nd_travel_destinations_pg_l1_price nd_travel_display_inline_block nd_travel_text_transform_uppercase nd_travel_bg_white nd_travel_padding_10_20" href="javascript:;">India Gate</a>
 														</div>
-														<img alt="" class="nd_travel_section" src="{{ asset('assets/images/destination-7.jpg') }}">
+														<img alt="" class="nd_travel_section" src="{{ asset('assets/images/destination/india-gate.png') }}">
+													</div>
+												</div>
+											</div>
+										</div>
+										<div id="nd_travel_destinations_pg_l1_20" class="nd_travel_masonry_item nd_travel_width_25_percentage nd_travel_float_left nd_travel_width_100_percentage_responsive" style="position: absolute; left: 0px; top: 0px;">
+											<div style="padding: 15px;" class="nd_travel_section nd_travel_box_sizing_border_box">
+												<div class="nd_travel_section nd_travel_border_1_solid_grey nd_travel_bg_white">
+													<div class="nd_travel_destinations_pg_l1_image nd_travel_section nd_travel_position_relative">
+														<div class="nd_travel_position_absolute nd_travel_top_0 nd_travel_left_0 nd_travel_width_100_percentage nd_travel_text_align_center">
+															<a class="nd_travel_destinations_pg_l1_price nd_travel_display_inline_block nd_travel_text_transform_uppercase nd_travel_bg_white nd_travel_padding_10_20" href="javascript:;">National War Memorial</a>
+														</div>
+														<img alt="" class="nd_travel_section" src="{{ asset('assets/images/destination/national-war-memorial.png') }}">
+													</div>
+												</div>
+											</div>
+										</div>
+										<div id="nd_travel_destinations_pg_l1_21" class="nd_travel_masonry_item nd_travel_width_25_percentage nd_travel_float_left nd_travel_width_100_percentage_responsive" style="position: absolute; left: 300px; top: 0px;">
+											<div style="padding: 15px;" class="nd_travel_section nd_travel_box_sizing_border_box">
+												<div class="nd_travel_section nd_travel_border_1_solid_grey nd_travel_bg_white">
+													<div class="nd_travel_destinations_pg_l1_image nd_travel_section nd_travel_position_relative">
+														<div class="nd_travel_position_absolute nd_travel_top_0 nd_travel_left_0 nd_travel_width_100_percentage nd_travel_text_align_center">
+															<a class="nd_travel_destinations_pg_l1_price nd_travel_display_inline_block nd_travel_text_transform_uppercase nd_travel_bg_white nd_travel_padding_10_20" href="javascript:;">QutubMinar</a>
+														</div>
+														<img alt="" class="nd_travel_section" src="{{ asset('assets/images/destination/qutub-minar.png') }}">
+													</div>
+												</div>
+											</div>
+										</div>
+										<div id="nd_travel_destinations_pg_l1_22" class="nd_travel_masonry_item nd_travel_width_25_percentage nd_travel_float_left nd_travel_width_100_percentage_responsive" style="position: absolute; left: 600px; top: 0px;">
+											<div style="padding: 15px;" class="nd_travel_section nd_travel_box_sizing_border_box">
+												<div class="nd_travel_section nd_travel_border_1_solid_grey nd_travel_bg_white">
+													<div class="nd_travel_destinations_pg_l1_image nd_travel_section nd_travel_position_relative">
+														<div class="nd_travel_position_absolute nd_travel_top_0 nd_travel_left_0 nd_travel_width_100_percentage nd_travel_text_align_center">
+															<a class="nd_travel_destinations_pg_l1_price nd_travel_display_inline_block nd_travel_text_transform_uppercase nd_travel_bg_white nd_travel_padding_10_20" href="javascript:;">Handicraft Market</a>
+														</div>
+														<img alt="" class="nd_travel_section" src="{{ asset('assets/images/destination/gyarah-murti.png') }}">
+													</div>
+												</div>
+											</div>
+										</div>
+										<div id="nd_travel_destinations_pg_l1_23" class="nd_travel_masonry_item nd_travel_width_25_percentage nd_travel_float_left nd_travel_width_100_percentage_responsive" style="position: absolute; left: 900px; top: 0px;">
+											<div style="padding: 15px;" class="nd_travel_section nd_travel_box_sizing_border_box">
+												<div class="nd_travel_section nd_travel_border_1_solid_grey nd_travel_bg_white">
+													<div class="nd_travel_destinations_pg_l1_image nd_travel_section nd_travel_position_relative">
+														<div class="nd_travel_position_absolute nd_travel_top_0 nd_travel_left_0 nd_travel_width_100_percentage nd_travel_text_align_center">
+															<a class="nd_travel_destinations_pg_l1_price nd_travel_display_inline_block nd_travel_text_transform_uppercase nd_travel_bg_white nd_travel_padding_10_20" href="javascript:;">Lotus Temple (Monday closed)</a>
+														</div>
+														<img alt="" class="nd_travel_section" src="{{ asset('assets/images/destination/lotus-temple.png') }}">
+													</div>
+												</div>
+											</div>
+										</div>
+										<div id="nd_travel_destinations_pg_l1_20" class="nd_travel_masonry_item nd_travel_width_25_percentage nd_travel_float_left nd_travel_width_100_percentage_responsive" style="position: absolute; left: 0px; top: 0px;">
+											<div style="padding: 15px;" class="nd_travel_section nd_travel_box_sizing_border_box">
+												<div class="nd_travel_section nd_travel_border_1_solid_grey nd_travel_bg_white">
+													<div class="nd_travel_destinations_pg_l1_image nd_travel_section nd_travel_position_relative">
+														<div class="nd_travel_position_absolute nd_travel_top_0 nd_travel_left_0 nd_travel_width_100_percentage nd_travel_text_align_center">
+															<a class="nd_travel_destinations_pg_l1_price nd_travel_display_inline_block nd_travel_text_transform_uppercase nd_travel_bg_white nd_travel_padding_10_20" href="javascript:;">Raj Ghat</a>
+														</div>
+														<img alt="" class="nd_travel_section" src="{{ asset('assets/images/destination/raj-ghat.png') }}">
+													</div>
+												</div>
+											</div>
+										</div>
+										<div id="nd_travel_destinations_pg_l1_21" class="nd_travel_masonry_item nd_travel_width_25_percentage nd_travel_float_left nd_travel_width_100_percentage_responsive" style="position: absolute; left: 300px; top: 0px;">
+											<div style="padding: 15px;" class="nd_travel_section nd_travel_box_sizing_border_box">
+												<div class="nd_travel_section nd_travel_border_1_solid_grey nd_travel_bg_white">
+													<div class="nd_travel_destinations_pg_l1_image nd_travel_section nd_travel_position_relative">
+														<div class="nd_travel_position_absolute nd_travel_top_0 nd_travel_left_0 nd_travel_width_100_percentage nd_travel_text_align_center">
+															<a class="nd_travel_destinations_pg_l1_price nd_travel_display_inline_block nd_travel_text_transform_uppercase nd_travel_bg_white nd_travel_padding_10_20" href="javascript:;">Shanti Van</a>
+														</div>
+														<img alt="" class="nd_travel_section" src="{{ asset('assets/images/destination/shanti-van.png') }}">
+													</div>
+												</div>
+											</div>
+										</div>
+										<div id="nd_travel_destinations_pg_l1_22" class="nd_travel_masonry_item nd_travel_width_25_percentage nd_travel_float_left nd_travel_width_100_percentage_responsive" style="position: absolute; left: 600px; top: 0px;">
+											<div style="padding: 15px;" class="nd_travel_section nd_travel_box_sizing_border_box">
+												<div class="nd_travel_section nd_travel_border_1_solid_grey nd_travel_bg_white">
+													<div class="nd_travel_destinations_pg_l1_image nd_travel_section nd_travel_position_relative">
+														<div class="nd_travel_position_absolute nd_travel_top_0 nd_travel_left_0 nd_travel_width_100_percentage nd_travel_text_align_center">
+															<a class="nd_travel_destinations_pg_l1_price nd_travel_display_inline_block nd_travel_text_transform_uppercase nd_travel_bg_white nd_travel_padding_10_20" href="javascript:;">Shakti Sthal</a>
+														</div>
+														<img alt="" class="nd_travel_section" src="{{ asset('assets/images/destination/gyarah-murti.png') }}">
+													</div>
+												</div>
+											</div>
+										</div>
+										<div id="nd_travel_destinations_pg_l1_23" class="nd_travel_masonry_item nd_travel_width_25_percentage nd_travel_float_left nd_travel_width_100_percentage_responsive" style="position: absolute; left: 900px; top: 0px;">
+											<div style="padding: 15px;" class="nd_travel_section nd_travel_box_sizing_border_box">
+												<div class="nd_travel_section nd_travel_border_1_solid_grey nd_travel_bg_white">
+													<div class="nd_travel_destinations_pg_l1_image nd_travel_section nd_travel_position_relative">
+														<div class="nd_travel_position_absolute nd_travel_top_0 nd_travel_left_0 nd_travel_width_100_percentage nd_travel_text_align_center">
+															<a class="nd_travel_destinations_pg_l1_price nd_travel_display_inline_block nd_travel_text_transform_uppercase nd_travel_bg_white nd_travel_padding_10_20" href="javascript:;">Red Fort</a>
+														</div>
+														<img alt="" class="nd_travel_section" src="{{ asset('assets/images/destination/lotus-temple.png') }}">
 													</div>
 												</div>
 											</div>
@@ -1134,9 +1230,9 @@
 						<div class="wpb_column vc_column_container vc_col-sm-12">
 							<div class="vc_column-inner ">
 								<div class="wpb_wrapper">
-									<h1 style="color:; padding:px; text-align:center; font-size:px; line-height:px; letter-spacing: px; font-weight:normal;" class="   nd_options_first_font ">PACKAGES</h1>
+									<h1 style="color:; padding:px; text-align:center; font-size:px; line-height:px; letter-spacing: px; font-weight:normal;" class="   nd_options_first_font ">SERVICES</h1>
 									<div style="background-color:; height: 20px;" class="nicdark_section  "></div>
-									<h3 style="color:#a4a4a4; padding:px; text-align:center; font-size:px; line-height:px; letter-spacing: px; font-weight:normal;" class="   nd_options_first_font ">BEST TRAVEL PACKAGES</h3>
+									<h3 style="color:#a4a4a4; padding:px; text-align:center; font-size:px; line-height:px; letter-spacing: px; font-weight:normal;" class="   nd_options_first_font ">BEST SERVICES</h3>
 									<div style="background-color:; height: 20px;" class="nicdark_section  "></div>
 									<div class="nd_options_section nd_options_line_height_0  nd_options_text_align_center ">
 										<span style="height:4px; width:80px; background-color:#f1f1f1;" class="nd_options_display_inline_block"></span>
@@ -1291,7 +1387,7 @@
 												<img class="nd_travel_section" alt="" src="{{ asset('assets/images/package-rome.jpg') }}">
 												<div class="nd_travel_section nd_travel_border_1_solid_grey nd_travel_padding_20 nd_travel_box_sizing_border_box nd_travel_bg_white nd_travel_overflow_hidden nd_travel_position_relative">
 													<a class="nd_travel_packages_pg_l2_responsive_title" href="javascript:;">
-														<h3 class="nd_travel_font_weight_normal nd_travel_box_sizing_border_box">Bangla Sahib Gurudwara</h3>
+														<h3 class="nd_travel_font_weight_normal nd_travel_box_sizing_border_box">Bus </h3>
 													</a>
 													<div class="nd_travel_section nd_travel_height_20"></div>
 													<p class="nd_travel_packages_pg_l2_responsive_text_preview">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ut efficitur ante. Donec dapibus dictum scelerisque.</p>
@@ -1311,7 +1407,7 @@
 													<div class=" nd_travel_packages_pg_middle_content nd_travel_float_left nd_travel_width_50_percentage nd_travel_margin_left_30_percentage">
 														<div class="nd_travel_section nd_travel_bg_white nd_travel_min_height_150">
 															<a class="nd_travel_packages_pg_l2_title" href="javascript:;">
-																<h4 class="nd_options_color_grey nd_travel_border_bottom_1_solid_grey nd_travel_bg_grey nd_travel_font_weight_normal nd_travel_padding_20 nd_travel_box_sizing_border_box">Bangla Sahib Gurudwara</h4>
+																<h4 class="nd_options_color_grey nd_travel_border_bottom_1_solid_grey nd_travel_bg_grey nd_travel_font_weight_normal nd_travel_padding_20 nd_travel_box_sizing_border_box">Bus </h4>
 															</a>
 															<div class="nd_travel_section nd_travel_padding_20 nd_travel_box_sizing_border_box">
 																<p class="nd_travel_packages_pg_l2_text_preview">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ut efficitur ante. Donec dapibus dictum scelerisque.</p>
@@ -1343,7 +1439,7 @@
 												<img class="nd_travel_section" alt="" src="{{ asset('assets/images/package-london.jpg') }}">
 												<div class="nd_travel_section nd_travel_border_1_solid_grey nd_travel_padding_20 nd_travel_box_sizing_border_box nd_travel_bg_white nd_travel_overflow_hidden nd_travel_position_relative">
 													<a class="nd_travel_packages_pg_l2_responsive_title" href="javascript:;">
-														<h3 class="nd_travel_font_weight_normal nd_travel_box_sizing_border_box">GyarahMurti</h3>
+														<h3 class="nd_travel_font_weight_normal nd_travel_box_sizing_border_box">Train</h3>
 													</a>
 													<div class="nd_travel_section nd_travel_height_20"></div>
 													<p class="nd_travel_packages_pg_l2_responsive_text_preview">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ut efficitur ante. Donec dapibus dictum scelerisque.</p>
@@ -1363,7 +1459,7 @@
 													<div class=" nd_travel_packages_pg_middle_content nd_travel_float_left nd_travel_width_50_percentage nd_travel_margin_left_30_percentage">
 														<div class="nd_travel_section nd_travel_bg_white nd_travel_min_height_150">
 															<a class="nd_travel_packages_pg_l2_title" href="javascript:;">
-																<h4 class="nd_options_color_grey nd_travel_border_bottom_1_solid_grey nd_travel_bg_grey nd_travel_font_weight_normal nd_travel_padding_20 nd_travel_box_sizing_border_box">GyarahMurti</h4>
+																<h4 class="nd_options_color_grey nd_travel_border_bottom_1_solid_grey nd_travel_bg_grey nd_travel_font_weight_normal nd_travel_padding_20 nd_travel_box_sizing_border_box">Train</h4>
 															</a>
 															<div class="nd_travel_section nd_travel_padding_20 nd_travel_box_sizing_border_box">
 																<p class="nd_travel_packages_pg_l2_text_preview">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ut efficitur ante. Donec dapibus dictum scelerisque.</p>
@@ -1395,7 +1491,7 @@
 												<img class="nd_travel_section" alt="" src="{{ asset('assets/images/package-berlin.jpg') }}">
 												<div class="nd_travel_section nd_travel_border_1_solid_grey nd_travel_padding_20 nd_travel_box_sizing_border_box nd_travel_bg_white nd_travel_overflow_hidden nd_travel_position_relative">
 													<a class="nd_travel_packages_pg_l2_responsive_title" href="javascript:;">
-														<h3 class="nd_travel_font_weight_normal nd_travel_box_sizing_border_box">TeenMurti</h3>
+														<h3 class="nd_travel_font_weight_normal nd_travel_box_sizing_border_box">Domestic and International Flight and Package Tour</h3>
 													</a>
 													<div class="nd_travel_section nd_travel_height_20"></div>
 													<p class="nd_travel_packages_pg_l2_responsive_text_preview">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ut efficitur ante. Donec dapibus dictum scelerisque.</p>
@@ -1415,7 +1511,7 @@
 													<div class=" nd_travel_packages_pg_middle_content nd_travel_float_left nd_travel_width_50_percentage nd_travel_margin_left_30_percentage">
 														<div class="nd_travel_section nd_travel_bg_white nd_travel_min_height_150">
 															<a class="nd_travel_packages_pg_l2_title" href="javascript:;">
-																<h4 class="nd_options_color_grey nd_travel_border_bottom_1_solid_grey nd_travel_bg_grey nd_travel_font_weight_normal nd_travel_padding_20 nd_travel_box_sizing_border_box">TeenMurti</h4>
+																<h4 class="nd_options_color_grey nd_travel_border_bottom_1_solid_grey nd_travel_bg_grey nd_travel_font_weight_normal nd_travel_padding_20 nd_travel_box_sizing_border_box">Domestic and International Flight and Package Tour</h4>
 															</a>
 															<div class="nd_travel_section nd_travel_padding_20 nd_travel_box_sizing_border_box">
 																<p class="nd_travel_packages_pg_l2_text_preview">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ut efficitur ante. Donec dapibus dictum scelerisque.</p>
@@ -1447,6 +1543,226 @@
 							</div>
 						</div>
 					</div>
+
+					<div class="vc_row wpb_row vc_row-fluid">
+						<div class="wpb_column vc_column_container vc_col-sm-12">
+							<div class="vc_column-inner ">
+								<div class="wpb_wrapper">
+									<h1 style="color:; padding:px; text-align:center; font-size:px; line-height:px; letter-spacing: px; font-weight:normal;" class="   nd_options_first_font ">CONTACT US</h1>
+								</div>
+							</div>
+						</div>
+					</div>
+					<!--Contact Us -->
+					<div class="vc_row wpb_row vc_row-fluid" id="contact-us">
+						<div class="wpb_column vc_column_container vc_col-sm-12" id="nd_options_home_1_tab_search">
+							<div class="vc_column-inner vc_custom_1524728256104">
+								<div class="wpb_wrapper">
+									<div class="vc_tta-container" data-vc-action="collapse" id="nd_options_tab_sidebar">
+										<div class="vc_general vc_tta vc_tta-tabs vc_tta-color-chino vc_tta-style-classic vc_tta-shape-square vc_tta-o-shape-group vc_tta-o-no-fill vc_tta-tabs-position-top vc_tta-controls-align-left vc_custom_1522853662600">
+											{{-- <div class="vc_tta-tabs-container">
+												<ul class="vc_tta-tabs-list">
+													<li class="vc_tta-tab vc_active" data-vc-tab=""><a href="#request" data-vc-tabs="" data-vc-container=".vc_tta"><i class="vc_tta-icon vc-material vc-material-search"></i><span class="vc_tta-title-text">QUICK SEARCH</span></a></li>
+													<li class="vc_tta-tab" data-vc-tab=""><a href="#contact-info" data-vc-tabs="" data-vc-container=".vc_tta"><i class="vc_tta-icon vc-material vc-material-settings_input_composite"></i><span class="vc_tta-title-text">ADVANCED</span></a></li>
+												</ul>
+											</div> --}}
+											<div class="vc_tta-panels-container">
+												<div class="vc_tta-panels">
+													{{-- <div class="vc_tta-panel" id="request" data-vc-content=".vc_tta-panel-body">
+														<div class="vc_tta-panel-heading">
+															<h4 class="vc_tta-panel-title"><a href="#request" data-vc-accordion="" data-vc-container=".vc_tta-container"><i class="vc_tta-icon vc-material vc-material-search"></i><span class="vc_tta-title-text">QUICK SEARCH</span></a></h4>
+														</div>
+														<div class="vc_tta-panel-body">
+															<div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1523029203384 vc_row-has-fill">
+																<div class="wpb_column vc_column_container vc_col-sm-12">
+																	<div class="vc_column-inner vc_custom_1523280291823">
+																		<div class="wpb_wrapper">
+																			<style>#nd_travel_search_component_id_264435 #nd_travel_search_components_tax_0{ display:none; } #nd_travel_search_component_id_264435 #nd_travel_search_components_tax_1{ display:none; } #nd_travel_search_component_id_264435 #nd_travel_search_components_tax_2{ display:none; } </style>
+																			<style>
+																				.nd_travel_dark_fields {
+																				background-color: #4a515b !important;
+																				border-width: 0px !important;
+																				} 
+																			</style>
+																			<div id="nd_travel_search_component_id_264435" class="nd_travel_section  ">
+																				<!--START FORM-->
+																				<form action="http://www.nicdarkthemes.com/themes/travel/wp/demo/travel/search-1/" method="get">
+																					<div style="padding:10px;" id="nd_travel_search_components_keyword" class=" nd_travel_width_25_percentage nd_travel_float_left nd_travel_float_left nd_travel_width_100_percentage_responsive nd_travel_box_sizing_border_box">
+																						<input id="nd_travel_vc_search_l1_keyword" name="nd_travel_archive_form_keyword" placeholder="Insert keyword" value="" class=" nd_travel_dark_fields nd_travel_section" type="text">
+																					</div>
+																					<div style="padding:10px;" id="nd_travel_search_components_destinations" class="nd_travel_width_25_percentage nd_travel_float_left nd_travel_float_left nd_travel_width_100_percentage_responsive nd_travel_box_sizing_border_box">
+																						<select class="nd_travel_section nd_travel_dark_fields " name="nd_travel_archive_form_destinations">
+																							<option value="0">All Destinations</option>
+																							<option value="24">Europe</option>
+																							<option value="362">&nbsp;&nbsp;- England</option>
+																							<option value="361">&nbsp;&nbsp;- Italy</option>
+																							<option value="23">Asia</option>
+																							<option value="22">America</option>
+																							<option value="21">Africa</option>
+																							<option value="20">Oceania</option>
+																						</select>
+																					</div>
+																					<div style="padding:10px;" id="nd_travel_search_components_typlogies" class=" nd_travel_width_25_percentage nd_travel_float_left nd_travel_float_left nd_travel_width_100_percentage_responsive nd_travel_box_sizing_border_box">
+																						<select class="nd_travel_section nd_travel_dark_fields " name="nd_travel_typology_slug">
+																							<option value="">All Typologies</option>
+																							<option value="255">Relax</option>
+																							<option value="19">Cultural</option>
+																							<option value="18">Sport</option>
+																							<option value="17">History</option>
+																						</select>
+																					</div>
+																					<div style="padding:10px;" id="nd_travel_search_components_tax_0" class=" nd_travel_width_25_percentage nd_travel_float_left nd_travel_float_left nd_travel_width_100_percentage_responsive nd_travel_box_sizing_border_box">
+																						<select class="nd_travel_section nd_travel_dark_fields " name="nd_travel_cpt_1_tax_1">
+																							<option value="">All Durations</option>
+																							<option value="2">1 - 3 Days</option>
+																							<option value="3">3 - 6 Days</option>
+																							<option value="4">6 - 9 Days</option>
+																							<option value="5">9 - 12 Days</option>
+																						</select>
+																					</div>
+																					<div style="padding:10px;" id="nd_travel_search_components_tax_1" class=" nd_travel_width_25_percentage nd_travel_float_left nd_travel_float_left nd_travel_width_100_percentage_responsive nd_travel_box_sizing_border_box">
+																						<select class="nd_travel_section nd_travel_dark_fields " name="nd_travel_cpt_1_tax_2">
+																							<option value="">All Difficulty</option>
+																							<option value="8">High</option>
+																							<option value="6">Low</option>
+																							<option value="7">Medium</option>
+																						</select>
+																					</div>
+																					<div style="padding:10px;" id="nd_travel_search_components_tax_2" class=" nd_travel_width_25_percentage nd_travel_float_left nd_travel_float_left nd_travel_width_100_percentage_responsive nd_travel_box_sizing_border_box">
+																						<select class="nd_travel_section nd_travel_dark_fields " name="nd_travel_cpt_1_tax_3">
+																							<option value="">All Min Age</option>
+																							<option value="10">10 Years</option>
+																							<option value="11">18 years</option>
+																							<option value="9">3 Years</option>
+																						</select>
+																					</div>
+																					<div style="padding:10px;" id="nd_travel_search_components_submit" class=" nd_travel_width_25_percentage nd_travel_float_left nd_travel_float_left nd_travel_width_100_percentage_responsive nd_travel_box_sizing_border_box">
+																						<input style="padding: ; background-color:#1bbc9b;" class="nd_options_color_white nd_options_second_font_important nd_travel_width_100_percentage " type="submit" value="SEARCH">
+																					</div>
+																				</form>
+																				<!--END FORM-->
+																			</div>
+																		</div>
+																	</div>
+																</div>
+															</div>
+															<div style="background-color:; height: 59px;" class="nicdark_section  "></div>
+														</div>
+													</div> --}}
+													<div class="vc_tta-panel vc_active" id="contact-info" data-vc-content=".vc_tta-panel-body">
+														<div class="vc_tta-panel-heading">
+															<h4 class="vc_tta-panel-title"><a href="#contact-info" data-vc-accordion="" data-vc-container=".vc_tta-container"><i class="vc_tta-icon vc-material vc-material-settings_input_composite"></i><span class="vc_tta-title-text">ADVANCED</span></a></h4>
+														</div>
+														<div class="vc_tta-panel-body">
+															<div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1523029203384 vc_row-has-fill">
+																<div class="wpb_column vc_column_container vc_col-sm-12">
+																	<div class="vc_column-inner vc_custom_1523280291823">
+																		<div class="wpb_wrapper">
+																			<style></style>
+																			<style>
+																				.nd_travel_dark_fields {
+																				background-color: #4a515b !important;
+																				border-width: 0px !important;
+																				} 
+																			</style>
+																			<div id="nd_travel_search_component_id_181741" class="nd_travel_section  ">
+																				<!--START FORM-->
+																				<form action="{{ route('contact') }}" method="post" name="contact-form" id="contact-form">
+																					@csrf
+																					<div style="padding:10px;" id="nd_travel_search_components_keyword" class=" nd_travel_width_33_percentage nd_travel_float_left nd_travel_float_left nd_travel_width_100_percentage_responsive nd_travel_box_sizing_border_box">
+																						<input type="text" id="name" name="name" placeholder="Enter Name" value="{{ old('name') }}" class="nd_travel_dark_fields nd_travel_section" />
+																						@error('name')
+																							<span class="invalid-feedback error" role="alert">
+																								<strong>{{ $message }}</strong>
+																							</span>
+																						@enderror
+																					</div>
+																					<div style="padding:10px;" id="nd_travel_search_components_keyword" class=" nd_travel_width_33_percentage nd_travel_float_left nd_travel_float_left nd_travel_width_100_percentage_responsive nd_travel_box_sizing_border_box">
+																						<input type="email" id="email" name="email" placeholder="Enter Email" value="{{ old('email') }}" class="nd_travel_dark_fields nd_travel_section" />
+																						@error('email')
+																							<span class="invalid-feedback error" role="alert">
+																								<strong>{{ $message }}</strong>
+																							</span>
+																						@enderror
+																					</div>
+																					<div style="padding:10px;" id="nd_travel_search_components_keyword" class=" nd_travel_width_33_percentage nd_travel_float_left nd_travel_float_left nd_travel_width_100_percentage_responsive nd_travel_box_sizing_border_box">
+																						<input type="text" id="phone" name="phone" placeholder="Enter Phone" value="{{ old('phone') }}" class="nd_travel_dark_fields nd_travel_section" />
+																						@error('phone')
+																							<span class="invalid-feedback error" role="alert">
+																								<strong>{{ $message }}</strong>
+																							</span>
+																						@enderror
+																					</div>
+																					<div style="padding:10px;" id="destination" class="nd_travel_width_33_percentage nd_travel_float_left nd_travel_float_left nd_travel_width_100_percentage_responsive nd_travel_box_sizing_border_box">
+																						<select class="nd_travel_section nd_travel_dark_fields " name="destination">
+																							<option value="">Choose Destinations</option>
+																							<option value="Bangla Sahib Gurudwara">Bangla Sahib Gurudwara</option>
+																							<option value="GyarahMurti">GyarahMurti</option>
+																							<option value="TeenMurti">TeenMurti</option>
+																							<option value="Parliament House">Parliament House</option>
+																							<option value="Embassy Lane">Embassy Lane</option>
+																							<option value="Laxmi Narayan Birla Temple">Laxmi Narayan Birla Temple</option>
+																							<option value="Rashtrapati Bhavan">Rashtrapati Bhavan</option>
+																							<option value="Vijay Chowk">Vijay Chowk</option>
+																							<option value="India Gate">India Gate</option>
+																							<option value="National War Memorial">National War Memorial</option>
+																							<option value="QutubMinar">QutubMinar</option>
+																							<option value="Handicraft Market">Handicraft Market</option>
+																							<option value="Lotus Temple">Lotus Temple</option>
+																							<option value="Raj Ghat">Raj Ghat</option>
+																							<option value="Shanti Van">Shanti Van</option>
+																							<option value="Shakti Sthal">Shakti Sthal</option>
+																							<option value="Red Fort">Red Fort</option>
+																						</select>
+																						@error('destination')
+																							<span class="invalid-feedback error" role="alert">
+																								<strong>{{ $message }}</strong>
+																							</span>
+																						@enderror
+																					</div>
+																					<div style="padding:10px;" id="nd_travel_search_components_tax_0" class=" nd_travel_width_33_percentage nd_travel_float_left nd_travel_float_left nd_travel_width_100_percentage_responsive nd_travel_box_sizing_border_box">
+																						<select class="nd_travel_section nd_travel_dark_fields " name="duration">
+																							<option value="">All Durations</option>
+																							<option value="1-3 Days">1 - 3 Days</option>
+																							<option value="3-6 Days">3 - 6 Days</option>
+																							<option value="6-9 Days">6 - 9 Days</option>
+																							<option value="9-12 Days">9 - 12 Days</option>
+																						</select>
+																						@error('duration')
+																							<span class="invalid-feedback error" role="alert">
+																								<strong>{{ $message }}</strong>
+																							</span>
+																						@enderror
+																					</div>
+																					<div style="padding:10px;" id="nd_travel_search_components_keyword" class=" nd_travel_width_33_percentage nd_travel_float_left nd_travel_float_left nd_travel_width_100_percentage_responsive nd_travel_box_sizing_border_box">
+																						<textarea id="description" name="description" placeholder="Enter description" rows="2" cols="10" class="nd_travel_dark_fields nd_travel_section">{{ old('description') }}</textarea>
+																						@error('description')
+																							<span class="invalid-feedback error" role="alert">
+																								<strong>{{ $message }}</strong>
+																							</span>
+																						@enderror
+																					</div>
+																					<div style="padding:10px;" id="nd_travel_search_components_submit" class=" nd_travel_width_100_percentage nd_travel_float_left nd_travel_float_left nd_travel_width_100_percentage_responsive nd_travel_box_sizing_border_box">
+																						<input type="submit" class="nd_options_color_white nd_options_second_font_important nd_travel_width_100_percentage" style="padding: ; background-color:#1bbc9b;" value="Submit">
+																					</div>
+																				</form>
+																				<!--END FORM-->
+																			</div>
+																		</div>
+																	</div>
+																</div>
+															</div>
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<!--End Contact Us -->
 					<!--end content-->
 				</div>
 				<!--#post-->
@@ -1510,7 +1826,7 @@
 																</div>
 																<p></p>
 																<div class="nd_options_float_left nd_options_box_sizing_border_box nd_options_width_100_percentage_all_iphone_important nd_options_padding_0_right_important_all_iphone nd_options_padding_0_left_important_all_iphone " style="padding: 0px 0px 0px 0px; width:60%;"><span class="wpcf7-form-control-wrap email"><input type="email" name="email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email nd_options_width_100_percentage nd_options_line_height_21 nd_travel_bg_greydark_2_important nd_travel_border_width_0_important" aria-required="true" aria-invalid="false" placeholder="Email"></span></div>
-																<div class="nd_options_float_left nd_options_box_sizing_border_box nd_options_width_100_percentage_all_iphone_important nd_options_padding_0_right_important_all_iphone nd_options_padding_0_left_important_all_iphone " style="padding: 0px 0px 0px 0px; width:40%;"><input type="submit" value="SUBSCRIBE" class="wpcf7-form-control wpcf7-submit nd_travel_padding_15_30_important nd_options_second_font_important nd_options_color_white nd_travel_display_inline_block nd_travel_font_size_11 nd_travel_letter_spacing_2 nd_travel_section"><span class="ajax-loader"></span></div>
+																{{-- <div class="nd_options_float_left nd_options_box_sizing_border_box nd_options_width_100_percentage_all_iphone_important nd_options_padding_0_right_important_all_iphone nd_options_padding_0_left_important_all_iphone " style="padding: 0px 0px 0px 0px; width:40%;"><input type="submit" value="SUBSCRIBE" class="wpcf7-form-control wpcf7-submit nd_travel_padding_15_30_important nd_options_second_font_important nd_options_color_white nd_travel_display_inline_block nd_travel_font_size_11 nd_travel_letter_spacing_2 nd_travel_section"><span class="ajax-loader"></span></div> --}}
 																<p></p>
 																<div class="wpcf7-response-output wpcf7-display-none"></div>
 															</form>
@@ -1536,7 +1852,7 @@
 				<!--start nd_options_container-->
 				<div style="border-top: 1px solid #f1f1f1 " class="nd_options_container nd_options_clearfix">
 					<div class="grid nd_options_grid_6 nd_options_text_align_center_responsive">
-						<p class="nd_options_font_size_14 nd_options_line_height_25_responsive">© Copyright {{ date('Y') }} Jaaz Digital</p>
+						<p class="nd_options_font_size_14 nd_options_line_height_25_responsive">© Copyright {{ date('Y') }} Haleasi Travels</p>
 					</div>
 					<div class="grid nd_options_grid_6 nd_options_text_align_right nd_options_text_align_center_responsive">
 						<p class="nd_options_font_size_14 nd_options_line_height_25_responsive">Best Travel WordPress Theme</p>
@@ -1556,7 +1872,7 @@
 			
 			gtag('config', 'UA-49425562-22');
 		</script>
-		<script type="text/javascript">
+		{{-- <script type="text/javascript">
 			function revslider_showDoubleJqueryError(sliderID) {
 				var errorMessage = "Revolution Slider Error: You have some jquery.js library include that comes after the revolution files js include.";
 				errorMessage += "<br> This includes make eliminates the revolution slider libraries, and make it not work.";
@@ -1565,7 +1881,7 @@
 				errorMessage = "<span style='font-size:16px;color:#BC0C06;'>" + errorMessage + "</span>";
 					jQuery(sliderID).show().html(errorMessage);
 			}
-		</script>
+		</script> --}}
 		<link rel="stylesheet" id="vc_tta_style-css" href="{{ asset('assets/css/js_composer_tta.min.css') }}" type="text/css" media="all">
 		<link rel="stylesheet" id="vc_material-css" href="{{ asset('assets/css/vc_material.min.css') }}" type="text/css" media="all">
 		<script type="text/javascript">
@@ -1576,17 +1892,17 @@
 		<script type="text/javascript" src="{{ asset('assets/js/scripts.js') }}"></script>
 		<script type="text/javascript" src="{{ asset('assets/js/jquery.blockUI.min.js') }}"></script>
 		<script type="text/javascript" src="{{ asset('assets/js/js.cookie.min.js') }}"></script>
-		<script type="text/javascript">
+		{{-- <script type="text/javascript">
 			/* <![CDATA[ */
 			var woocommerce_params = {"ajax_url":"\/themes\/travel\/wp\/demo\/travel\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/themes\/travel\/wp\/demo\/travel\/?wc-ajax=%%endpoint%%"};
 			/* ]]> */
-		</script>
+		</script> --}}
 		<script type="text/javascript" src="{{ asset('assets/js/woocommerce.min.js') }}"></script>
-		<script type="text/javascript">
+		{{-- <script type="text/javascript">
 			/* <![CDATA[ */
 			var wc_cart_fragments_params = {"ajax_url":"\/themes\/travel\/wp\/demo\/travel\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/themes\/travel\/wp\/demo\/travel\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_855c73786db679b7f00eca93dafe46f8","fragment_name":"wc_fragments_855c73786db679b7f00eca93dafe46f8"};
 			/* ]]> */
-		</script>
+		</script> --}}
 		<script type="text/javascript" src="{{ asset('assets/js/cart-fragments.min.js') }}"></script>
 		<script type="text/javascript" src="{{ asset('assets/js/comment-reply.min.js') }}"></script>
 		<script type="text/javascript" src="{{ asset('assets/js/nicdark_navigation.js') }}"></script>
@@ -1598,8 +1914,68 @@
 		<script type="text/javascript" src="{{ asset('assets/js/imagesloaded.min.js') }}"></script>
 		<script type="text/javascript" src="{{ asset('assets/js/masonry.min.js') }}"></script>
 		<script type="text/javascript" src="{{ asset('assets/js/skrollr.min.js') }}"></script>
-		<span>
-			<!-- <script src="assets/js/6932-" type="text/javascript"></script> -->
-		</span>
+		<script src="{{ asset('assets/js/utm_form-1.0.4.min.js') }}"></script>
+		<script src="{{ asset('assets/js/jquery.validate.min.js') }}"></script>
+        <script src="{{ asset('assets/js/jquery.validate-methods.js') }}"></script>
+        <script src="{{ asset('assets/js/jquery.validate-additional-methods.js') }}"></script>
+
+		<script type="text/javascript">
+            $(document).ready(function (){
+                InitFormValidation();
+            });
+
+            function InitFormValidation() {
+                $("#contact-form").validate({
+                    rules : {
+                        name: {
+                            required: true
+                        },
+                        email: {
+                            required: true, 
+                            email: true
+                        },
+                        phone: {
+                            required: true,
+                            number: true,
+                            minlength:10,
+                            maxlength:15
+                        },
+                        duration: {
+                            required: true
+                        },
+                        destination: {
+                            required: true
+                        },
+						description: {
+							required: true
+						}
+                    },
+                    messages: {
+                        name: {
+                            required: 'Name is required.'
+                        },
+                        email: {
+                            required: 'Email is required',
+                            email: 'Please enter valid E-Mail Address.'
+                        },
+                        phone: {
+                            required: 'Phone is required',
+                            number: 'Only numbers were allowed.',
+                            minlength: 'Please enter a valid phone number',
+                            maxlength: 'Please enter a valid phone number',
+                        },
+                        duration: {
+                            required: 'Duration is required'
+                        },
+                        destination: {
+                            required: 'Desitination is required'
+                        },
+						description: {
+							required: 'Description is required'
+						}
+                    }
+                });
+            }
+        </script>
 	</body>
 </html>
