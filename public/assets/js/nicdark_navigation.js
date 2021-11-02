@@ -1,8 +1,3 @@
-/*
-	Author: nicdark
-	Author URI: http://www.nicdarkthemes.com/
-*/
-
 (function($) {
 	"use strict";
 

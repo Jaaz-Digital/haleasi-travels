@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<!-- saved from url=(0058)http://www.nicdarkthemes.com/themes/travel/wp/demo/travel/ -->
 <html lang="en-US" class="js_active  vc_desktop  vc_transform  vc_transform skrollr skrollr-desktop">
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -7,12 +6,6 @@
 		<title>Haleasi Travel</title>
 		<link rel="dns-prefetch" href="http://fonts.googleapis.com/">
 		<link rel="dns-prefetch" href="http://s.w.org/">
-		<!-- <link rel="alternate" type="application/rss+xml" title="Haleasi Travel » Feed" href="http://www.nicdarkthemes.com/themes/travel/wp/demo/travel/feed/">
-		<link rel="alternate" type="application/rss+xml" title="Haleasi Travel » Comments Feed" href="http://www.nicdarkthemes.com/themes/travel/wp/demo/travel/comments/feed/"> -->
-		<script type="text/javascript" async="" src="{{ asset('assets/js/analytics.js') }}"></script><script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.nicdarkthemes.com\/themes\/travel\/wp\/demo\/travel\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.2.1"}};
-			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="{{ asset('assets/js/wp-emoji-release.min.js') }}" type="text/javascript" defer=""></script>
 		<link rel="stylesheet" id="wp-block-library-css" href="{{ asset('assets/css/style.min.css') }}" type="text/css" media="all">
 		<link rel="stylesheet" id="contact-form-7-css" href="{{ asset('assets/css/styles.css') }}" type="text/css" media="all">
 		<link rel="stylesheet" id="nd_options_style-css" href="{{ asset('assets/css/style.css') }}" type="text/css" media="all">
@@ -32,26 +25,7 @@
 		<script type="text/javascript" src="{{ asset('assets/js/jquery-migrate.min.js') }}"></script>
 		<script type="text/javascript" src="{{ asset('assets/js/jquery.themepunch.tools.min.js') }}"></script>
 		<script type="text/javascript" src="{{ asset('assets/js/jquery.themepunch.revolution.min.js') }}"></script>
-		<script type="text/javascript">
-			/* <![CDATA[ */
-			var wc_add_to_cart_params = {"ajax_url":"\/themes\/travel\/wp\/demo\/travel\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/themes\/travel\/wp\/demo\/travel\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"http:\/\/www.nicdarkthemes.com\/themes\/travel\/wp\/demo\/travel\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
-			/* ]]> */
-		</script>
-		<!-- <script type="text/javascript" src="assets/js/add-to-cart.min.js"></script>
-		<script type="text/javascript" src="assets/js/woocommerce-add-to-cart.js"></script>
-		<link rel="https://api.w.org/" href="http://www.nicdarkthemes.com/themes/travel/wp/demo/travel/wp-json/">
-		<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.nicdarkthemes.com/themes/travel/wp/demo/travel/xmlrpc.php?rsd">
-		<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.nicdarkthemes.com/themes/travel/wp/demo/travel/wp-includes/wlwmanifest.xml">
-		<meta name="generator" content="WordPress 5.2.1">
-		<meta name="generator" content="WooCommerce 3.3.6">
-		<link rel="canonical" href="http://www.nicdarkthemes.com/themes/travel/wp/demo/travel/">
-		<link rel="shortlink" href="http://www.nicdarkthemes.com/themes/travel/wp/demo/travel/">
-		<link rel="alternate" type="application/json+oembed" href="http://www.nicdarkthemes.com/themes/travel/wp/demo/travel/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.nicdarkthemes.com%2Fthemes%2Ftravel%2Fwp%2Fdemo%2Ftravel%2F">
-		<link rel="alternate" type="text/xml+oembed" href="http://www.nicdarkthemes.com/themes/travel/wp/demo/travel/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.nicdarkthemes.com%2Fthemes%2Ftravel%2Fwp%2Fdemo%2Ftravel%2F&amp;format=xml"> -->
 		<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress.">
-		<!--[if lte IE 9]>
-		<link rel="stylesheet" type="text/css" href="http://www.nicdarkthemes.com/themes/travel/wp/demo/travel/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen">
-		<![endif]-->
 		<meta name="generator" content="Powered by Slider Revolution 5.4.8.3 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface.">
 		<link rel="icon" href="{{ asset('assets/images/lovetravel-thumbnail.jpg') }}" sizes="32x32">
 		<link rel="icon" href="{{ asset('assets/images/lovetravel-thumbnail.jpg') }}" sizes="192x192">
@@ -108,64 +82,6 @@
 						<ul id="menu-menu-1" class="menu">
 							<li id="menu-item-55" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-53 current_page_item menu-item-55"><a href="javascript:;" aria-current="page">Contact</a></li>
 							<li id="menu-item-52" class="nd_options_book_now_btn menu-item menu-item-type-post_type menu-item-object-page menu-item-52"><a href="tel:+91 98765 43210">Call Now</a></li>
-							<!-- <li id="menu-item-51" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-51">
-								<a href="http://www.nicdarkthemes.com/themes/travel/wp/demo/travel/search-1/">PACKAGES</a>
-								<ul class="sub-menu">
-									<li id="menu-item-146" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-146"><a href="http://www.nicdarkthemes.com/themes/travel/wp/demo/travel/search-1/">Search</a></li>
-									<li id="menu-item-524" class="menu-item menu-item-type-post_type menu-item-object-nd_travel_cpt_1 menu-item-524"><a href="javascript:;">Single Package</a></li>
-									<li id="menu-item-147" class="menu-item menu-item-type-post_type menu-item-object-nd_travel_cpt_3 menu-item-147"><a href="http://www.nicdarkthemes.com/themes/travel/wp/demo/travel/destinations/europe/">Destination</a></li>
-								</ul>
-							</li>
-							<li id="menu-item-548" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-548">
-								<a href="http://www.nicdarkthemes.com/themes/travel/wp/demo/travel/shop/">SHOP</a>
-								<ul class="sub-menu">
-									<li id="menu-item-615" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-615"><a href="http://www.nicdarkthemes.com/themes/travel/wp/demo/travel/shop/">Shop</a></li>
-									<li id="menu-item-614" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-614"><a href="http://www.nicdarkthemes.com/themes/travel/wp/demo/travel/cart/">Cart</a></li>
-									<li id="menu-item-613" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-613"><a href="http://www.nicdarkthemes.com/themes/travel/wp/demo/travel/checkout/">Checkout</a></li>
-									<li id="menu-item-612" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-612"><a href="http://www.nicdarkthemes.com/themes/travel/wp/demo/travel/my-account/">My account</a></li>
-								</ul>
-							</li>
-							<li id="menu-item-208" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-208"><a href="http://www.nicdarkthemes.com/themes/travel/wp/demo/travel/about-us/">ABOUT US</a></li>
-							<li id="menu-item-144" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-144">
-								<a href="javascript:;">PAGES</a>
-								<ul class="sub-menu">
-									<li id="menu-item-163" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-163"><a href="http://www.nicdarkthemes.com/themes/travel/wp/demo/travel/agency-destinations/">Best Destinations</a></li>
-									<li id="menu-item-168" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-168"><a href="http://www.nicdarkthemes.com/themes/travel/wp/demo/travel/staff/">Staff</a></li>
-									<li id="menu-item-171" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-171"><a href="http://www.nicdarkthemes.com/themes/travel/wp/demo/travel/services/">Services</a></li>
-									<li id="menu-item-179" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-179"><a href="http://www.nicdarkthemes.com/themes/travel/wp/demo/travel/prices/">Prices</a></li>
-									<li id="menu-item-178" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-178"><a href="http://www.nicdarkthemes.com/themes/travel/wp/demo/travel/faq/">Faq</a></li>
-									<li id="menu-item-181" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-181">
-										<a href="http://www.nicdarkthemes.com/themes/travel/wp/demo/travel/contact-1/">Contact 1</a>
-										<ul class="sub-menu">
-											<li id="menu-item-183" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-183"><a href="http://www.nicdarkthemes.com/themes/travel/wp/demo/travel/contact-1/">Contact 1</a></li>
-											<li id="menu-item-182" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-182"><a href="http://www.nicdarkthemes.com/themes/travel/wp/demo/travel/contact-2/">Contact 2</a></li>
-										</ul>
-									</li>
-									<li id="menu-item-188" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-188"><a target="_blank" rel="noopener noreferrer" href="http://www.nicdarkthemes.com/themes/travel/wp/demo/travel/coming-soon/">Coming Soon</a></li>
-								</ul>
-							</li>
-							<li id="menu-item-205" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-205">
-								<a href="http://www.nicdarkthemes.com/themes/travel/wp/demo/travel/our-news/">NEWS</a>
-								<ul class="sub-menu">
-									<li id="menu-item-360" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-360"><a href="http://www.nicdarkthemes.com/themes/travel/wp/demo/travel/our-news/">Archive</a></li>
-									<li id="menu-item-359" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-has-children menu-item-359">
-										<a href="http://www.nicdarkthemes.com/themes/travel/wp/demo/travel/new-routes/">Single Post</a>
-										<ul class="sub-menu">
-											<li id="menu-item-358" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-358"><a href="http://www.nicdarkthemes.com/themes/travel/wp/demo/travel/new-routes/">Full Width</a></li>
-											<li id="menu-item-357" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-357"><a href="http://www.nicdarkthemes.com/themes/travel/wp/demo/travel/love-travel/">Right Sidebar</a></li>
-											<li id="menu-item-356" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-356"><a href="http://www.nicdarkthemes.com/themes/travel/wp/demo/travel/alternative-trips/">Left Sidebar</a></li>
-										</ul>
-									</li>
-								</ul>
-							</li>
-							<li id="menu-item-162" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-162">
-								<a href="http://www.nicdarkthemes.com/themes/travel/wp/demo/travel/contact-1/">CONTACT</a>
-								<ul class="sub-menu">
-									<li id="menu-item-160" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-160"><a href="http://www.nicdarkthemes.com/themes/travel/wp/demo/travel/contact-1/">Contact 1</a></li>
-									<li id="menu-item-161" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-161"><a href="http://www.nicdarkthemes.com/themes/travel/wp/demo/travel/contact-2/">Contact 2</a></li>
-								</ul>
-							</li>
-							<li id="menu-item-52" class="nd_options_book_now_btn menu-item menu-item-type-post_type menu-item-object-page menu-item-52"><a href="http://www.nicdarkthemes.com/themes/travel/wp/demo/travel/search-1/">BOOK NOW</a></li> -->
 						</ul>
 					</div>
 				</div>
@@ -190,64 +106,6 @@
 											<ul id="menu-menu-2" class="menu">
 												<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-53 current_page_item menu-item-55"><a href="#contact-us" aria-current="page">Contact</a></li>
 												<li id="menu-item-52" class="nd_options_book_now_btn menu-item menu-item-type-post_type menu-item-object-page menu-item-52"><a href="tel:+91 98765 43210">Call Now</a></li>
-												<!--<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-53 current_page_item menu-item-55"><a href="http://www.nicdarkthemes.com/themes/travel/wp/demo/travel/" aria-current="page">HOME</a></li>
-												<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-51">
-													<a href="http://www.nicdarkthemes.com/themes/travel/wp/demo/travel/search-1/">PACKAGES</a>
-													<ul class="sub-menu">
-														<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-146"><a href="http://www.nicdarkthemes.com/themes/travel/wp/demo/travel/search-1/">Search</a></li>
-														<li class="menu-item menu-item-type-post_type menu-item-object-nd_travel_cpt_1 menu-item-524"><a href="javascript:;">Single Package</a></li>
-														<li class="menu-item menu-item-type-post_type menu-item-object-nd_travel_cpt_3 menu-item-147"><a href="http://www.nicdarkthemes.com/themes/travel/wp/demo/travel/destinations/europe/">Destination</a></li>
-													</ul>
-												</li>
-												<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-548">
-													<a href="http://www.nicdarkthemes.com/themes/travel/wp/demo/travel/shop/">SHOP</a>
-													<ul class="sub-menu">
-														<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-615"><a href="http://www.nicdarkthemes.com/themes/travel/wp/demo/travel/shop/">Shop</a></li>
-														<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-614"><a href="http://www.nicdarkthemes.com/themes/travel/wp/demo/travel/cart/">Cart</a></li>
-														<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-613"><a href="http://www.nicdarkthemes.com/themes/travel/wp/demo/travel/checkout/">Checkout</a></li>
-														<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-612"><a href="http://www.nicdarkthemes.com/themes/travel/wp/demo/travel/my-account/">My account</a></li>
-													</ul>
-												</li>
-												<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-208"><a href="http://www.nicdarkthemes.com/themes/travel/wp/demo/travel/about-us/">ABOUT US</a></li>
-												<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-144">
-													<a href="javascript:;">PAGES</a>
-													<ul class="sub-menu">
-														<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-163"><a href="http://www.nicdarkthemes.com/themes/travel/wp/demo/travel/agency-destinations/">Best Destinations</a></li>
-														<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-168"><a href="http://www.nicdarkthemes.com/themes/travel/wp/demo/travel/staff/">Staff</a></li>
-														<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-171"><a href="http://www.nicdarkthemes.com/themes/travel/wp/demo/travel/services/">Services</a></li>
-														<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-179"><a href="http://www.nicdarkthemes.com/themes/travel/wp/demo/travel/prices/">Prices</a></li>
-														<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-178"><a href="http://www.nicdarkthemes.com/themes/travel/wp/demo/travel/faq/">Faq</a></li>
-														<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-181">
-															<a href="http://www.nicdarkthemes.com/themes/travel/wp/demo/travel/contact-1/">Contact 1</a>
-															<ul class="sub-menu">
-																<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-183"><a href="http://www.nicdarkthemes.com/themes/travel/wp/demo/travel/contact-1/">Contact 1</a></li>
-																<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-182"><a href="http://www.nicdarkthemes.com/themes/travel/wp/demo/travel/contact-2/">Contact 2</a></li>
-															</ul>
-														</li>
-														<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-188"><a target="_blank" rel="noopener noreferrer" href="http://www.nicdarkthemes.com/themes/travel/wp/demo/travel/coming-soon/">Coming Soon</a></li>
-													</ul>
-												</li>
-												<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-205">
-													<a href="http://www.nicdarkthemes.com/themes/travel/wp/demo/travel/our-news/">NEWS</a>
-													<ul class="sub-menu">
-														<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-360"><a href="http://www.nicdarkthemes.com/themes/travel/wp/demo/travel/our-news/">Archive</a></li>
-														<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-has-children menu-item-359">
-															<a href="http://www.nicdarkthemes.com/themes/travel/wp/demo/travel/new-routes/">Single Post</a>
-															<ul class="sub-menu">
-																<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-358"><a href="http://www.nicdarkthemes.com/themes/travel/wp/demo/travel/new-routes/">Full Width</a></li>
-																<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-357"><a href="http://www.nicdarkthemes.com/themes/travel/wp/demo/travel/love-travel/">Right Sidebar</a></li>
-																<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-356"><a href="http://www.nicdarkthemes.com/themes/travel/wp/demo/travel/alternative-trips/">Left Sidebar</a></li>
-															</ul>
-														</li>
-													</ul>
-												</li>
-												<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-162">
-													<a href="http://www.nicdarkthemes.com/themes/travel/wp/demo/travel/contact-1/">CONTACT</a>
-													<ul class="sub-menu">
-														<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-160"><a href="http://www.nicdarkthemes.com/themes/travel/wp/demo/travel/contact-1/">Contact 1</a></li>
-														<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-161"><a href="http://www.nicdarkthemes.com/themes/travel/wp/demo/travel/contact-2/">Contact 2</a></li>
-													</ul>
-												</li>-->
 											</ul>
 										</div>
 									</div>
@@ -309,11 +167,11 @@
 													<img src="{{ asset('assets/images/slider/slider1.png') }}" alt="" title="parallax-2" width="1920" height="1080" data-bgposition="center top" data-kenburns="on" data-duration="9000" data-ease="Linear.easeNone" data-scalestart="100" data-scaleend="110" data-rotatestart="0" data-rotateend="0" data-blurstart="0" data-blurend="0" data-offsetstart="0 0" data-offsetend="0 0" data-bgparallax="off" class="rev-slidebg" data-no-retina="">
 													<!-- LAYERS -->
 													<!-- LAYER NR. 1 -->
-													<div class="tp-caption nicdarkwithlight50   tp-resizeme rs-parallaxlevel-3" id="slide-10-layer-1" data-x="center" data-hoffset="-20" data-y="center" data-voffset="-150" data-width="[&#39;auto&#39;]" data-height="[&#39;auto&#39;]" data-type="text" data-responsive_offset="on" data-frames="[{&quot;delay&quot;:3000,&quot;speed&quot;:2000,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;x:-50px;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:300,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;nothing&quot;}]" data-textalign="[&#39;left&#39;,&#39;left&#39;,&#39;left&#39;,&#39;left&#39;]" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 5; white-space: nowrap; font-weight: 300; color: rgba(255,255,255,1); letter-spacing: px;font-family:Open Sans;">PARIS </div>
+													<div class="tp-caption nicdarkwithlight50   tp-resizeme rs-parallaxlevel-3" id="slide-10-layer-1" data-x="center" data-hoffset="-20" data-y="center" data-voffset="-150" data-width="[&#39;auto&#39;]" data-height="[&#39;auto&#39;]" data-type="text" data-responsive_offset="on" data-frames="[{&quot;delay&quot;:3000,&quot;speed&quot;:2000,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;x:-50px;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:300,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;nothing&quot;}]" data-textalign="[&#39;left&#39;,&#39;left&#39;,&#39;left&#39;,&#39;left&#39;]" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 5; white-space: nowrap; font-weight: 300; color: rgba(255,255,255,1); letter-spacing: px;font-family:Open Sans;">THE </div>
 													<!-- LAYER NR. 2 -->
-													<div class="tp-caption nicdarkwithregular75   tp-resizeme rs-parallaxlevel-4" id="slide-10-layer-2" data-x="center" data-hoffset="20" data-y="center" data-voffset="-60" data-width="[&#39;auto&#39;]" data-height="[&#39;auto&#39;]" data-type="text" data-responsive_offset="on" data-frames="[{&quot;delay&quot;:4100,&quot;speed&quot;:2000,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;x:-50px;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:300,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;nothing&quot;}]" data-textalign="[&#39;left&#39;,&#39;left&#39;,&#39;left&#39;,&#39;left&#39;]" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 6; white-space: nowrap; font-weight: 400; color: rgba(255,255,255,1); letter-spacing: px;font-family:Open Sans;">TOUR </div>
+													<div class="tp-caption nicdarkwithregular75   tp-resizeme rs-parallaxlevel-4" id="slide-10-layer-2" data-x="center" data-hoffset="20" data-y="center" data-voffset="-60" data-width="[&#39;auto&#39;]" data-height="[&#39;auto&#39;]" data-type="text" data-responsive_offset="on" data-frames="[{&quot;delay&quot;:4100,&quot;speed&quot;:2000,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;x:-50px;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:300,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;nothing&quot;}]" data-textalign="[&#39;left&#39;,&#39;left&#39;,&#39;left&#39;,&#39;left&#39;]" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 6; white-space: nowrap; font-weight: 400; color: rgba(255,255,255,1); letter-spacing: px;font-family:Open Sans;">INDIA </div>
 													<!-- LAYER NR. 3 -->
-													<div class="tp-caption nicdarkwithlight75   tp-resizeme rs-parallaxlevel-4" id="slide-10-layer-3" data-x="center" data-hoffset="250" data-y="center" data-voffset="-60" data-width="[&#39;auto&#39;]" data-height="[&#39;auto&#39;]" data-type="text" data-responsive_offset="on" data-frames="[{&quot;delay&quot;:4200,&quot;speed&quot;:2000,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;x:-50px;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:300,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;nothing&quot;}]" data-textalign="[&#39;left&#39;,&#39;left&#39;,&#39;left&#39;,&#39;left&#39;]" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 7; white-space: nowrap; font-weight: 300; color: rgba(255,255,255,1); letter-spacing: px;font-family:Open Sans;">EIFFEL </div>
+													<div class="tp-caption nicdarkwithlight75   tp-resizeme rs-parallaxlevel-4" id="slide-10-layer-3" data-x="center" data-hoffset="250" data-y="center" data-voffset="-60" data-width="[&#39;auto&#39;]" data-height="[&#39;auto&#39;]" data-type="text" data-responsive_offset="on" data-frames="[{&quot;delay&quot;:4200,&quot;speed&quot;:2000,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;x:-50px;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:300,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;nothing&quot;}]" data-textalign="[&#39;left&#39;,&#39;left&#39;,&#39;left&#39;,&#39;left&#39;]" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 7; white-space: nowrap; font-weight: 300; color: rgba(255,255,255,1); letter-spacing: px;font-family:Open Sans;">GATE </div>
 													<!-- LAYER NR. 4 -->
 													<div class="tp-caption nicdarkwithlight40   tp-resizeme rs-parallaxlevel-2" id="slide-10-layer-4" data-x="982" data-y="259" data-width="[&#39;auto&#39;]" data-height="[&#39;auto&#39;]" data-type="text" data-responsive_offset="on" data-frames="[{&quot;delay&quot;:5000,&quot;speed&quot;:2000,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:-50px;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:300,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;nothing&quot;}]" data-textalign="[&#39;left&#39;,&#39;left&#39;,&#39;left&#39;,&#39;left&#39;]" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 8; white-space: nowrap; font-weight: 300; color: rgba(255,255,255,1); letter-spacing: px;font-family:Open Sans;">TOUR </div>
 													<!-- LAYER NR. 5 -->
@@ -331,7 +189,7 @@
 													<img src="{{ asset('assets/images/slider/slider2.png') }}" alt="" title="p-17" width="1920" height="1080" data-bgposition="center top" data-kenburns="on" data-duration="9000" data-ease="Linear.easeNone" data-scalestart="100" data-scaleend="110" data-rotatestart="0" data-rotateend="0" data-blurstart="0" data-blurend="0" data-offsetstart="0 0" data-offsetend="0 0" data-bgparallax="off" class="rev-slidebg" data-no-retina="">
 													<!-- LAYERS -->
 													<!-- LAYER NR. 9 -->
-													<div class="tp-caption nicdarkwithlight50   tp-resizeme rs-parallaxlevel-3" id="slide-16-layer-1" data-x="center" data-hoffset="-470" data-y="center" data-voffset="-200" data-width="[&#39;auto&#39;]" data-height="[&#39;auto&#39;]" data-type="text" data-responsive_offset="on" data-frames="[{&quot;delay&quot;:1000,&quot;speed&quot;:4000,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;x:-50px;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:300,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;nothing&quot;}]" data-textalign="[&#39;left&#39;,&#39;left&#39;,&#39;left&#39;,&#39;left&#39;]" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 5; white-space: nowrap; font-weight: 300; color: rgba(255,255,255,1); letter-spacing: px;font-family:Open Sans;">ITALY </div>
+													<div class="tp-caption nicdarkwithlight50   tp-resizeme rs-parallaxlevel-3" id="slide-16-layer-1" data-x="center" data-hoffset="-470" data-y="center" data-voffset="-200" data-width="[&#39;auto&#39;]" data-height="[&#39;auto&#39;]" data-type="text" data-responsive_offset="on" data-frames="[{&quot;delay&quot;:1000,&quot;speed&quot;:4000,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;x:-50px;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:300,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;nothing&quot;}]" data-textalign="[&#39;left&#39;,&#39;left&#39;,&#39;left&#39;,&#39;left&#39;]" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 5; white-space: nowrap; font-weight: 300; color: rgba(255,255,255,1); letter-spacing: px;font-family:Open Sans;">INDIA </div>
 													<!-- LAYER NR. 10 -->
 													<div class="tp-caption nicdarkwithregular75   tp-resizeme rs-parallaxlevel-4" id="slide-16-layer-2" data-x="center" data-hoffset="-430" data-y="center" data-voffset="-110" data-width="[&#39;auto&#39;]" data-height="[&#39;auto&#39;]" data-type="text" data-responsive_offset="on" data-frames="[{&quot;delay&quot;:2100,&quot;speed&quot;:4000,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;x:-50px;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:300,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;nothing&quot;}]" data-textalign="[&#39;left&#39;,&#39;left&#39;,&#39;left&#39;,&#39;left&#39;]" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 6; white-space: nowrap; font-weight: 400; color: rgba(255,255,255,1); letter-spacing: px;font-family:Open Sans;">BEST </div>
 													<!-- LAYER NR. 11 -->
@@ -383,7 +241,7 @@
 												}else{
 													revapi4 = tpj("#rev_slider_4_1").show().revolution({
 														sliderType:"standard",
-														jsFileLocation:"//www.nicdarkthemes.com/themes/travel/wp/demo/travel/wp-content/plugins/revslider/public/assets/js/",
+														jsFileLocation:"/assets/js/",
 														sliderLayout:"fullwidth",
 														dottedOverlay:"none",
 														delay:9000,
@@ -491,189 +349,6 @@
 							</div>
 						</div>
 					</div>
-					{{-- <div class="vc_row wpb_row vc_row-fluid">
-						<div class="wpb_column vc_column_container vc_col-sm-12" id="nd_options_home_1_tab_search">
-							<div class="vc_column-inner vc_custom_1524728256104">
-								<div class="wpb_wrapper">
-									<div class="vc_tta-container" data-vc-action="collapse" id="nd_options_tab_sidebar">
-										<div class="vc_general vc_tta vc_tta-tabs vc_tta-color-chino vc_tta-style-classic vc_tta-shape-square vc_tta-o-shape-group vc_tta-o-no-fill vc_tta-tabs-position-top vc_tta-controls-align-left vc_custom_1522853662600">
-											<div class="vc_tta-tabs-container">
-												<ul class="vc_tta-tabs-list">
-													<li class="vc_tta-tab vc_active" data-vc-tab=""><a href="#request" data-vc-tabs="" data-vc-container=".vc_tta"><i class="vc_tta-icon vc-material vc-material-search"></i><span class="vc_tta-title-text">QUICK SEARCH</span></a></li>
-													<li class="vc_tta-tab" data-vc-tab=""><a href="#contact-info" data-vc-tabs="" data-vc-container=".vc_tta"><i class="vc_tta-icon vc-material vc-material-settings_input_composite"></i><span class="vc_tta-title-text">ADVANCED</span></a></li>
-												</ul>
-											</div>
-											<div class="vc_tta-panels-container">
-												<div class="vc_tta-panels">
-													<div class="vc_tta-panel vc_active" id="request" data-vc-content=".vc_tta-panel-body">
-														<div class="vc_tta-panel-heading">
-															<h4 class="vc_tta-panel-title"><a href="#request" data-vc-accordion="" data-vc-container=".vc_tta-container"><i class="vc_tta-icon vc-material vc-material-search"></i><span class="vc_tta-title-text">QUICK SEARCH</span></a></h4>
-														</div>
-														<div class="vc_tta-panel-body">
-															<div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1523029203384 vc_row-has-fill">
-																<div class="wpb_column vc_column_container vc_col-sm-12">
-																	<div class="vc_column-inner vc_custom_1523280291823">
-																		<div class="wpb_wrapper">
-																			<style>#nd_travel_search_component_id_264435 #nd_travel_search_components_tax_0{ display:none; } #nd_travel_search_component_id_264435 #nd_travel_search_components_tax_1{ display:none; } #nd_travel_search_component_id_264435 #nd_travel_search_components_tax_2{ display:none; } </style>
-																			<style>
-																				.nd_travel_dark_fields {
-																				background-color: #4a515b !important;
-																				border-width: 0px !important;
-																				} 
-																			</style>
-																			<div id="nd_travel_search_component_id_264435" class="nd_travel_section  ">
-																				<!--START FORM-->
-																				<form action="http://www.nicdarkthemes.com/themes/travel/wp/demo/travel/search-1/" method="get">
-																					<div style="padding:10px;" id="nd_travel_search_components_keyword" class=" nd_travel_width_25_percentage nd_travel_float_left nd_travel_float_left nd_travel_width_100_percentage_responsive nd_travel_box_sizing_border_box">
-																						<input id="nd_travel_vc_search_l1_keyword" name="nd_travel_archive_form_keyword" placeholder="Insert keyword" value="" class=" nd_travel_dark_fields nd_travel_section" type="text">
-																					</div>
-																					<div style="padding:10px;" id="nd_travel_search_components_destinations" class="nd_travel_width_25_percentage nd_travel_float_left nd_travel_float_left nd_travel_width_100_percentage_responsive nd_travel_box_sizing_border_box">
-																						<select class="nd_travel_section nd_travel_dark_fields " name="nd_travel_archive_form_destinations">
-																							<option value="0">All Destinations</option>
-																							<option value="24">Europe</option>
-																							<option value="362">&nbsp;&nbsp;- England</option>
-																							<option value="361">&nbsp;&nbsp;- Italy</option>
-																							<option value="23">Asia</option>
-																							<option value="22">America</option>
-																							<option value="21">Africa</option>
-																							<option value="20">Oceania</option>
-																						</select>
-																					</div>
-																					<div style="padding:10px;" id="nd_travel_search_components_typlogies" class=" nd_travel_width_25_percentage nd_travel_float_left nd_travel_float_left nd_travel_width_100_percentage_responsive nd_travel_box_sizing_border_box">
-																						<select class="nd_travel_section nd_travel_dark_fields " name="nd_travel_typology_slug">
-																							<option value="">All Typologies</option>
-																							<option value="255">Relax</option>
-																							<option value="19">Cultural</option>
-																							<option value="18">Sport</option>
-																							<option value="17">History</option>
-																						</select>
-																					</div>
-																					<div style="padding:10px;" id="nd_travel_search_components_tax_0" class=" nd_travel_width_25_percentage nd_travel_float_left nd_travel_float_left nd_travel_width_100_percentage_responsive nd_travel_box_sizing_border_box">
-																						<select class="nd_travel_section nd_travel_dark_fields " name="nd_travel_cpt_1_tax_1">
-																							<option value="">All Durations</option>
-																							<option value="2">1 - 3 Days</option>
-																							<option value="3">3 - 6 Days</option>
-																							<option value="4">6 - 9 Days</option>
-																							<option value="5">9 - 12 Days</option>
-																						</select>
-																					</div>
-																					<div style="padding:10px;" id="nd_travel_search_components_tax_1" class=" nd_travel_width_25_percentage nd_travel_float_left nd_travel_float_left nd_travel_width_100_percentage_responsive nd_travel_box_sizing_border_box">
-																						<select class="nd_travel_section nd_travel_dark_fields " name="nd_travel_cpt_1_tax_2">
-																							<option value="">All Difficulty</option>
-																							<option value="8">High</option>
-																							<option value="6">Low</option>
-																							<option value="7">Medium</option>
-																						</select>
-																					</div>
-																					<div style="padding:10px;" id="nd_travel_search_components_tax_2" class=" nd_travel_width_25_percentage nd_travel_float_left nd_travel_float_left nd_travel_width_100_percentage_responsive nd_travel_box_sizing_border_box">
-																						<select class="nd_travel_section nd_travel_dark_fields " name="nd_travel_cpt_1_tax_3">
-																							<option value="">All Min Age</option>
-																							<option value="10">10 Years</option>
-																							<option value="11">18 years</option>
-																							<option value="9">3 Years</option>
-																						</select>
-																					</div>
-																					<div style="padding:10px;" id="nd_travel_search_components_submit" class=" nd_travel_width_25_percentage nd_travel_float_left nd_travel_float_left nd_travel_width_100_percentage_responsive nd_travel_box_sizing_border_box">
-																						<input style="padding: ; background-color:#1bbc9b;" class="nd_options_color_white nd_options_second_font_important nd_travel_width_100_percentage " type="submit" value="SEARCH">
-																					</div>
-																				</form>
-																				<!--END FORM-->
-																			</div>
-																		</div>
-																	</div>
-																</div>
-															</div>
-															<div style="background-color:; height: 59px;" class="nicdark_section  "></div>
-														</div>
-													</div>
-													<div class="vc_tta-panel" id="contact-info" data-vc-content=".vc_tta-panel-body">
-														<div class="vc_tta-panel-heading">
-															<h4 class="vc_tta-panel-title"><a href="#contact-info" data-vc-accordion="" data-vc-container=".vc_tta-container"><i class="vc_tta-icon vc-material vc-material-settings_input_composite"></i><span class="vc_tta-title-text">ADVANCED</span></a></h4>
-														</div>
-														<div class="vc_tta-panel-body">
-															<div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1523029203384 vc_row-has-fill">
-																<div class="wpb_column vc_column_container vc_col-sm-12">
-																	<div class="vc_column-inner vc_custom_1523280291823">
-																		<div class="wpb_wrapper">
-																			<style></style>
-																			<style>
-																				.nd_travel_dark_fields {
-																				background-color: #4a515b !important;
-																				border-width: 0px !important;
-																				} 
-																			</style>
-																			<div id="nd_travel_search_component_id_181741" class="nd_travel_section  ">
-																				<!--START FORM-->
-																				<form action="javascript:;" method="get">
-																					<div style="padding:10px;" id="nd_travel_search_components_keyword" class=" nd_travel_width_25_percentage nd_travel_float_left nd_travel_float_left nd_travel_width_100_percentage_responsive nd_travel_box_sizing_border_box">
-																						<input id="nd_travel_vc_search_l1_keyword" name="nd_travel_archive_form_keyword" placeholder="Insert keyword" value="" class=" nd_travel_dark_fields nd_travel_section" type="text">
-																					</div>
-																					<div style="padding:10px;" id="nd_travel_search_components_destinations" class="nd_travel_width_25_percentage nd_travel_float_left nd_travel_float_left nd_travel_width_100_percentage_responsive nd_travel_box_sizing_border_box">
-																						<select class="nd_travel_section nd_travel_dark_fields " name="nd_travel_archive_form_destinations">
-																							<option value="0">All Destinations</option>
-																							<option value="24">Europe</option>
-																							<option value="362">&nbsp;&nbsp;- England</option>
-																							<option value="361">&nbsp;&nbsp;- Italy</option>
-																							<option value="23">Asia</option>
-																							<option value="22">America</option>
-																							<option value="21">Africa</option>
-																							<option value="20">Oceania</option>
-																						</select>
-																					</div>
-																					<div style="padding:10px;" id="nd_travel_search_components_typlogies" class=" nd_travel_width_25_percentage nd_travel_float_left nd_travel_float_left nd_travel_width_100_percentage_responsive nd_travel_box_sizing_border_box">
-																						<select class="nd_travel_section nd_travel_dark_fields " name="nd_travel_typology_slug">
-																							<option value="">All Typologies</option>
-																							<option value="255">Relax</option>
-																							<option value="19">Cultural</option>
-																							<option value="18">Sport</option>
-																							<option value="17">History</option>
-																						</select>
-																					</div>
-																					<div style="padding:10px;" id="nd_travel_search_components_tax_0" class=" nd_travel_width_25_percentage nd_travel_float_left nd_travel_float_left nd_travel_width_100_percentage_responsive nd_travel_box_sizing_border_box">
-																						<select class="nd_travel_section nd_travel_dark_fields " name="nd_travel_cpt_1_tax_1">
-																							<option value="">All Durations</option>
-																							<option value="2">1 - 3 Days</option>
-																							<option value="3">3 - 6 Days</option>
-																							<option value="4">6 - 9 Days</option>
-																							<option value="5">9 - 12 Days</option>
-																						</select>
-																					</div>
-																					<div style="padding:10px;" id="nd_travel_search_components_tax_1" class=" nd_travel_width_25_percentage nd_travel_float_left nd_travel_float_left nd_travel_width_100_percentage_responsive nd_travel_box_sizing_border_box">
-																						<select class="nd_travel_section nd_travel_dark_fields " name="nd_travel_cpt_1_tax_2">
-																							<option value="">All Difficulty</option>
-																							<option value="8">High</option>
-																							<option value="6">Low</option>
-																							<option value="7">Medium</option>
-																						</select>
-																					</div>
-																					<div style="padding:10px;" id="nd_travel_search_components_tax_2" class=" nd_travel_width_25_percentage nd_travel_float_left nd_travel_float_left nd_travel_width_100_percentage_responsive nd_travel_box_sizing_border_box">
-																						<select class="nd_travel_section nd_travel_dark_fields " name="nd_travel_cpt_1_tax_3">
-																							<option value="">All Min Age</option>
-																							<option value="10">10 Years</option>
-																							<option value="11">18 years</option>
-																							<option value="9">3 Years</option>
-																						</select>
-																					</div>
-																					<div style="padding:10px;" id="nd_travel_search_components_submit" class=" nd_travel_width_50_percentage nd_travel_float_left nd_travel_float_left nd_travel_width_100_percentage_responsive nd_travel_box_sizing_border_box">
-																						<input style="padding: ; background-color:#1bbc9b;" class="nd_options_color_white nd_options_second_font_important nd_travel_width_100_percentage " type="submit" value="SEARCH">
-																					</div>
-																				</form>
-																				<!--END FORM-->
-																			</div>
-																		</div>
-																	</div>
-																</div>
-															</div>
-														</div>
-													</div>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div> --}}
 					<div class="vc_row wpb_row vc_row-fluid vc_custom_1523541500622">
 						<div class="wpb_column vc_column_container vc_col-sm-12">
 							<div class="vc_column-inner ">
@@ -731,18 +406,6 @@
 															<h3 class="nd_options_color_white nd_travel_bg_greydark nd_travel_font_weight_normal nd_travel_padding_20 nd_travel_box_sizing_border_box">Bangla Sahib Gurudwara</h3>
 														</a>
 													</div>
-													<!-- <div style="background-color:#ba71da" class="nd_travel_section">
-														<div class="nd_travel_packages_pg_l1_destination nd_travel_float_left nd_travel_width_50_percentage nd_travel_padding_5_20 nd_travel_box_sizing_border_box">
-															<a href="http://www.nicdarkthemes.com/themes/travel/wp/demo/travel/destinations/europe/">
-																<p class="nd_options_color_white">Europe</p>
-															</a>
-														</div>
-														<div class="nd_travel_position_relative nd_travel_packages_pg_l1_typology nd_travel_float_left nd_travel_width_50_percentage nd_travel_padding_5_20 nd_travel_box_sizing_border_box nd_travel_bg_white_alpha_10">
-															<span class="nd_options_color_white nd_travel_position_relative nd_travel_section">
-															<a class="nd_options_color_white" href="http://www.nicdarkthemes.com/themes/travel/wp/demo/travel/typologies/cultural/">Cultural</a>  
-															</span>
-														</div>
-													</div> -->
 													<div class="nd_travel_section nd_travel_padding_20 nd_travel_box_sizing_border_box">
 														<p class="nd_travel_packages_pg_l1_text_preview">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ut efficitur ante. Donec dapibus dictum scelerisque.</p>
 														<div class="nd_travel_section nd_travel_height_20"></div>
@@ -765,18 +428,6 @@
 															<h3 class="nd_options_color_white nd_travel_bg_greydark nd_travel_font_weight_normal nd_travel_padding_20 nd_travel_box_sizing_border_box">GyarahMurti</h3>
 														</a>
 													</div>
-													<!-- <div style="background-color:#14b9d5" class="nd_travel_section">
-														<div class="nd_travel_packages_pg_l1_destination nd_travel_float_left nd_travel_width_50_percentage nd_travel_padding_5_20 nd_travel_box_sizing_border_box">
-															<a href="http://www.nicdarkthemes.com/themes/travel/wp/demo/travel/destinations/asia/">
-																<p class="nd_options_color_white">Asia</p>
-															</a>
-														</div>
-														<div class="nd_travel_position_relative nd_travel_packages_pg_l1_typology nd_travel_float_left nd_travel_width_50_percentage nd_travel_padding_5_20 nd_travel_box_sizing_border_box nd_travel_bg_white_alpha_10">
-															<span class="nd_options_color_white nd_travel_position_relative nd_travel_section">
-															<a class="nd_options_color_white" href="http://www.nicdarkthemes.com/themes/travel/wp/demo/travel/typologies/history/">History</a>  
-															</span>
-														</div>
-													</div> -->
 													<div class="nd_travel_section nd_travel_padding_20 nd_travel_box_sizing_border_box">
 														<p class="nd_travel_packages_pg_l1_text_preview">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ut efficitur ante. Donec dapibus dictum scelerisque.</p>
 														<div class="nd_travel_section nd_travel_height_20"></div>
@@ -799,18 +450,6 @@
 															<h3 class="nd_options_color_white nd_travel_bg_greydark nd_travel_font_weight_normal nd_travel_padding_20 nd_travel_box_sizing_border_box">TeenMurti</h3>
 														</a>
 													</div>
-													<!-- <div style="background-color:#f76570" class="nd_travel_section">
-														<div class="nd_travel_packages_pg_l1_destination nd_travel_float_left nd_travel_width_50_percentage nd_travel_padding_5_20 nd_travel_box_sizing_border_box">
-															<a href="http://www.nicdarkthemes.com/themes/travel/wp/demo/travel/destinations/england/">
-																<p class="nd_options_color_white">England</p>
-															</a>
-														</div>
-														<div class="nd_travel_position_relative nd_travel_packages_pg_l1_typology nd_travel_float_left nd_travel_width_50_percentage nd_travel_padding_5_20 nd_travel_box_sizing_border_box nd_travel_bg_white_alpha_10">
-															<span class="nd_options_color_white nd_travel_position_relative nd_travel_section">
-															<a class="nd_options_color_white" href="http://www.nicdarkthemes.com/themes/travel/wp/demo/travel/typologies/sport/">Sport</a>  
-															</span>
-														</div>
-													</div> -->
 													<div class="nd_travel_section nd_travel_padding_20 nd_travel_box_sizing_border_box">
 														<p class="nd_travel_packages_pg_l1_text_preview">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ut efficitur ante. Donec dapibus dictum scelerisque.</p>
 														<div class="nd_travel_section nd_travel_height_20"></div>
@@ -833,18 +472,6 @@
 															<h3 class="nd_options_color_white nd_travel_bg_greydark nd_travel_font_weight_normal nd_travel_padding_20 nd_travel_box_sizing_border_box">Parliament House</h3>
 														</a>
 													</div>
-													<!-- <div style="background-color:#1bbc9b" class="nd_travel_section">
-														<div class="nd_travel_packages_pg_l1_destination nd_travel_float_left nd_travel_width_50_percentage nd_travel_padding_5_20 nd_travel_box_sizing_border_box">
-															<a href="javascript:;">
-																<p class="nd_options_color_white">America</p>
-															</a>
-														</div>
-														<div class="nd_travel_position_relative nd_travel_packages_pg_l1_typology nd_travel_float_left nd_travel_width_50_percentage nd_travel_padding_5_20 nd_travel_box_sizing_border_box nd_travel_bg_white_alpha_10">
-															<span class="nd_options_color_white nd_travel_position_relative nd_travel_section">
-															<a class="nd_options_color_white" href="http://www.nicdarkthemes.com/themes/travel/wp/demo/travel/typologies/relax/">Relax</a>  
-															</span>
-														</div>
-													</div> -->
 													<div class="nd_travel_section nd_travel_padding_20 nd_travel_box_sizing_border_box">
 														<p class="nd_travel_packages_pg_l1_text_preview">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ut efficitur ante. Donec dapibus dictum scelerisque.</p>
 														<div class="nd_travel_section nd_travel_height_20"></div>
@@ -867,29 +494,6 @@
 															<h3 class="nd_options_color_white nd_travel_bg_greydark nd_travel_font_weight_normal nd_travel_padding_20 nd_travel_box_sizing_border_box">Lotus Temple</h3>
 														</a>
 													</div>
-													<!-- <div style="background-color:#f3a46b" class="nd_travel_section">
-														<div class="nd_travel_packages_pg_l1_destination nd_travel_float_left nd_travel_width_50_percentage nd_travel_padding_5_20 nd_travel_box_sizing_border_box">
-															<a href="http://www.nicdarkthemes.com/themes/travel/wp/demo/travel/destinations/italy/">
-																<p class="nd_options_color_white">Italy</p>
-															</a>
-														</div>
-														<div class="nd_travel_position_relative nd_travel_packages_pg_l1_typology nd_travel_float_left nd_travel_width_50_percentage nd_travel_padding_5_20 nd_travel_box_sizing_border_box nd_travel_bg_white_alpha_10">
-															<span class="nd_options_color_white nd_travel_position_relative nd_travel_section">
-																<a class="nd_options_color_white" href="http://www.nicdarkthemes.com/themes/travel/wp/demo/travel/typologies/history/">History</a> ... 
-																<span style="background-color:#f3a46b" class="nd_travel_typologies_count nd_travel_position_absolute nd_travel_padding_4_8 nd_travel_line_height_14 nd_travel_right_0 nd_travel_right_10_negative_all_iphone nd_travel_top_3 nd_travel_top_17_negative_all_iphone">
-																	+ 1
-																	<div class="nd_travel_typologies_dropdown nd_travel_position_absolute nd_travel_display_none nd_travel_top_20 nd_travel_right_0  ">
-																		<div class="nd_travel_triangle_typologies_light"></div>
-																		<div class="nd_travel_bg_white nd_travel_border_1_solid_grey nd_travel_border_top_width_0_important">
-																			<a class="nd_travel_display_block nd_travel_padding_5_12" href="http://www.nicdarkthemes.com/themes/travel/wp/demo/travel/typologies/sport/">
-																				<p class="nd_travel_line_height_16 nd_travel_font_size_11">Sport</p>
-																			</a>
-																		</div>
-																	</div>
-																</span>
-															</span>
-														</div>
-													</div> -->
 													<div class="nd_travel_section nd_travel_padding_20 nd_travel_box_sizing_border_box">
 														<p class="nd_travel_packages_pg_l1_text_preview">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ut efficitur ante. Donec dapibus dictum scelerisque.</p>
 														<div class="nd_travel_section nd_travel_height_20"></div>
@@ -902,9 +506,6 @@
 											<div class="nd_travel_section nd_travel_padding_15 nd_travel_box_sizing_border_box">
 												<div class="nd_travel_section nd_travel_border_1_solid_grey nd_travel_bg_white">
 													<div class="nd_travel_packages_pg_l1_image nd_travel_overflow_hidden nd_travel_section nd_travel_position_relative">
-														<!-- <a class="nd_travel_position_absolute nd_travel_top_0 nd_travel_left_0 nd_travel_bg_white nd_travel_padding_10_20" href="http://www.nicdarkthemes.com/themes/travel/wp/demo/travel/packages/dubai/">
-														<span class="nd_travel_text_decoration_line_through">950</span> 730 <span class="">$</span>
-														</a> -->
 														<img alt="" class="nd_travel_section" src="{{ asset('assets/images/promotions/rashtrapati-bhavan.jpg') }}">
 													</div>
 													<div class="nd_travel_section">
@@ -912,18 +513,6 @@
 															<h3 class="nd_options_color_white nd_travel_bg_greydark nd_travel_font_weight_normal nd_travel_padding_20 nd_travel_box_sizing_border_box">Rashtrapati Bhavan</h3>
 														</a>
 													</div>
-													<!-- <div style="background-color:#ffd205" class="nd_travel_section">
-														<div class="nd_travel_packages_pg_l1_destination nd_travel_float_left nd_travel_width_50_percentage nd_travel_padding_5_20 nd_travel_box_sizing_border_box">
-															<a href="http://www.nicdarkthemes.com/themes/travel/wp/demo/travel/destinations/asia/">
-																<p class="nd_options_color_white">Asia</p>
-															</a>
-														</div>
-														<div class="nd_travel_position_relative nd_travel_packages_pg_l1_typology nd_travel_float_left nd_travel_width_50_percentage nd_travel_padding_5_20 nd_travel_box_sizing_border_box nd_travel_bg_white_alpha_10">
-															<span class="nd_options_color_white nd_travel_position_relative nd_travel_section">
-															<a class="nd_options_color_white" href="http://www.nicdarkthemes.com/themes/travel/wp/demo/travel/typologies/sport/">Sport</a>  
-															</span>
-														</div>
-													</div> -->
 													<div class="nd_travel_section nd_travel_padding_20 nd_travel_box_sizing_border_box">
 														<p class="nd_travel_packages_pg_l1_text_preview">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ut efficitur ante. Donec dapibus dictum scelerisque.</p>
 														<div class="nd_travel_section nd_travel_height_20"></div>
@@ -1387,7 +976,7 @@
 												<img class="nd_travel_section" alt="" src="{{ asset('assets/images/package-rome.jpg') }}">
 												<div class="nd_travel_section nd_travel_border_1_solid_grey nd_travel_padding_20 nd_travel_box_sizing_border_box nd_travel_bg_white nd_travel_overflow_hidden nd_travel_position_relative">
 													<a class="nd_travel_packages_pg_l2_responsive_title" href="javascript:;">
-														<h3 class="nd_travel_font_weight_normal nd_travel_box_sizing_border_box">Bus </h3>
+														<h3 class="nd_travel_font_weight_normal nd_travel_box_sizing_border_box">Bus Ticket Booking </h3>
 													</a>
 													<div class="nd_travel_section nd_travel_height_20"></div>
 													<p class="nd_travel_packages_pg_l2_responsive_text_preview">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ut efficitur ante. Donec dapibus dictum scelerisque.</p>
@@ -1407,7 +996,7 @@
 													<div class=" nd_travel_packages_pg_middle_content nd_travel_float_left nd_travel_width_50_percentage nd_travel_margin_left_30_percentage">
 														<div class="nd_travel_section nd_travel_bg_white nd_travel_min_height_150">
 															<a class="nd_travel_packages_pg_l2_title" href="javascript:;">
-																<h4 class="nd_options_color_grey nd_travel_border_bottom_1_solid_grey nd_travel_bg_grey nd_travel_font_weight_normal nd_travel_padding_20 nd_travel_box_sizing_border_box">Bus </h4>
+																<h4 class="nd_options_color_grey nd_travel_border_bottom_1_solid_grey nd_travel_bg_grey nd_travel_font_weight_normal nd_travel_padding_20 nd_travel_box_sizing_border_box">Bus Ticket Booking </h4>
 															</a>
 															<div class="nd_travel_section nd_travel_padding_20 nd_travel_box_sizing_border_box">
 																<p class="nd_travel_packages_pg_l2_text_preview">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ut efficitur ante. Donec dapibus dictum scelerisque.</p>
@@ -1439,7 +1028,7 @@
 												<img class="nd_travel_section" alt="" src="{{ asset('assets/images/package-london.jpg') }}">
 												<div class="nd_travel_section nd_travel_border_1_solid_grey nd_travel_padding_20 nd_travel_box_sizing_border_box nd_travel_bg_white nd_travel_overflow_hidden nd_travel_position_relative">
 													<a class="nd_travel_packages_pg_l2_responsive_title" href="javascript:;">
-														<h3 class="nd_travel_font_weight_normal nd_travel_box_sizing_border_box">Train</h3>
+														<h3 class="nd_travel_font_weight_normal nd_travel_box_sizing_border_box">Flight Ticket Booking</h3>
 													</a>
 													<div class="nd_travel_section nd_travel_height_20"></div>
 													<p class="nd_travel_packages_pg_l2_responsive_text_preview">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ut efficitur ante. Donec dapibus dictum scelerisque.</p>
@@ -1459,7 +1048,42 @@
 													<div class=" nd_travel_packages_pg_middle_content nd_travel_float_left nd_travel_width_50_percentage nd_travel_margin_left_30_percentage">
 														<div class="nd_travel_section nd_travel_bg_white nd_travel_min_height_150">
 															<a class="nd_travel_packages_pg_l2_title" href="javascript:;">
-																<h4 class="nd_options_color_grey nd_travel_border_bottom_1_solid_grey nd_travel_bg_grey nd_travel_font_weight_normal nd_travel_padding_20 nd_travel_box_sizing_border_box">Train</h4>
+																<h4 class="nd_options_color_grey nd_travel_border_bottom_1_solid_grey nd_travel_bg_grey nd_travel_font_weight_normal nd_travel_padding_20 nd_travel_box_sizing_border_box">Train Ticket Booking</h4>
+															</a>
+															<div class="nd_travel_section nd_travel_padding_20 nd_travel_box_sizing_border_box">
+																<p class="nd_travel_packages_pg_l2_text_preview">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ut efficitur ante. Donec dapibus dictum scelerisque.</p>
+															</div>
+															<div class="nd_travel_packages_pg_l2_typologies_list_icons nd_travel_section nd_travel_padding_bottom_20 nd_travel_padding_left_20 nd_travel_padding_right_20 nd_travel_box_sizing_border_box"></div>
+														</div>
+													</div>
+													<div style="background-color:#f76570" class=" nd_travel_packages_pg_l2_right_content nd_travel_float_left nd_travel_width_20_percentage nd_travel_top_0 nd_travel_right_0 nd_travel_text_align_center nd_travel_height_100_percentage nd_travel_position_absolute nd_travel_padding_0_30 nd_travel_box_sizing_border_box">
+														<div class="nd_travel_section nd_travel_display_table nd_travel_height_100_percentage">
+															<div class="nd_travel_section nd_travel_display_table_cell nd_travel_vertical_align_middle nd_travel_float_initial">
+																<!-- <div class="nd_travel_section">
+																	<a class="nd_travel_packages_pg_l2_price nd_options_color_white nd_travel_font_size_30" href="javascript:;">
+																	<span class="">400</span>  <span class="nd_travel_font_size_20">$</span>
+																	</a>
+																	<div class="nd_travel_section nd_travel_height_20"></div>
+																</div> -->
+																<div class="nd_travel_section">
+																	<a href="javascript:;" class="nd_travel_packages_pg_l2_button nd_options_color_white nd_travel_border_1_solid_white nd_travel_padding_10_20 nd_options_second_font_important nd_travel_border_radius_0_important nd_travel_line_height_20 nd_travel_background_color_transparent_important nd_travel_cursor_pointer nd_travel_display_inline_block">DETAILS</a>
+																</div>
+															</div>
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
+										<!--responsive-->
+										<div id="nd_travel_packages_pg_l2_31" class="nd_travel_masonry_item nd_travel_width_100_percentage nd_travel_width_100_percentage_responsive nd_travel_display_none_responsive" style="position: absolute; left: 0px; top: 231px;">
+											<div class="nd_travel_section nd_travel_padding_15 nd_travel_box_sizing_border_box">
+												<div class="nd_travel_section nd_travel_border_1_solid_grey nd_travel_bg_white nd_travel_overflow_hidden nd_travel_position_relative">
+													<div style="background-image:url(assets/images/promotions/gyarahmurti.png)" class=" nd_travel_packages_pg_l2_image nd_travel_float_left nd_travel_width_30_percentage nd_travel_left_0 nd_travel_top_0 nd_travel_position_absolute nd_travel_height_100_percentage nd_travel_background_size_cover nd_travel_background_position_center">       
+													</div>
+													<div class=" nd_travel_packages_pg_middle_content nd_travel_float_left nd_travel_width_50_percentage nd_travel_margin_left_30_percentage">
+														<div class="nd_travel_section nd_travel_bg_white nd_travel_min_height_150">
+															<a class="nd_travel_packages_pg_l2_title" href="javascript:;">
+																<h4 class="nd_options_color_grey nd_travel_border_bottom_1_solid_grey nd_travel_bg_grey nd_travel_font_weight_normal nd_travel_padding_20 nd_travel_box_sizing_border_box">Domestic and International Flight Ticket Booking</h4>
 															</a>
 															<div class="nd_travel_section nd_travel_padding_20 nd_travel_box_sizing_border_box">
 																<p class="nd_travel_packages_pg_l2_text_preview">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ut efficitur ante. Donec dapibus dictum scelerisque.</p>
@@ -1491,7 +1115,7 @@
 												<img class="nd_travel_section" alt="" src="{{ asset('assets/images/package-berlin.jpg') }}">
 												<div class="nd_travel_section nd_travel_border_1_solid_grey nd_travel_padding_20 nd_travel_box_sizing_border_box nd_travel_bg_white nd_travel_overflow_hidden nd_travel_position_relative">
 													<a class="nd_travel_packages_pg_l2_responsive_title" href="javascript:;">
-														<h3 class="nd_travel_font_weight_normal nd_travel_box_sizing_border_box">Domestic and International Flight and Package Tour</h3>
+														<h3 class="nd_travel_font_weight_normal nd_travel_box_sizing_border_box">Tour Packages</h3>
 													</a>
 													<div class="nd_travel_section nd_travel_height_20"></div>
 													<p class="nd_travel_packages_pg_l2_responsive_text_preview">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ut efficitur ante. Donec dapibus dictum scelerisque.</p>
@@ -1511,7 +1135,7 @@
 													<div class=" nd_travel_packages_pg_middle_content nd_travel_float_left nd_travel_width_50_percentage nd_travel_margin_left_30_percentage">
 														<div class="nd_travel_section nd_travel_bg_white nd_travel_min_height_150">
 															<a class="nd_travel_packages_pg_l2_title" href="javascript:;">
-																<h4 class="nd_options_color_grey nd_travel_border_bottom_1_solid_grey nd_travel_bg_grey nd_travel_font_weight_normal nd_travel_padding_20 nd_travel_box_sizing_border_box">Domestic and International Flight and Package Tour</h4>
+																<h4 class="nd_options_color_grey nd_travel_border_bottom_1_solid_grey nd_travel_bg_grey nd_travel_font_weight_normal nd_travel_padding_20 nd_travel_box_sizing_border_box">Tour Packages</h4>
 															</a>
 															<div class="nd_travel_section nd_travel_padding_20 nd_travel_box_sizing_border_box">
 																<p class="nd_travel_packages_pg_l2_text_preview">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ut efficitur ante. Donec dapibus dictum scelerisque.</p>
@@ -1568,87 +1192,6 @@
 											</div> --}}
 											<div class="vc_tta-panels-container">
 												<div class="vc_tta-panels">
-													{{-- <div class="vc_tta-panel" id="request" data-vc-content=".vc_tta-panel-body">
-														<div class="vc_tta-panel-heading">
-															<h4 class="vc_tta-panel-title"><a href="#request" data-vc-accordion="" data-vc-container=".vc_tta-container"><i class="vc_tta-icon vc-material vc-material-search"></i><span class="vc_tta-title-text">QUICK SEARCH</span></a></h4>
-														</div>
-														<div class="vc_tta-panel-body">
-															<div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1523029203384 vc_row-has-fill">
-																<div class="wpb_column vc_column_container vc_col-sm-12">
-																	<div class="vc_column-inner vc_custom_1523280291823">
-																		<div class="wpb_wrapper">
-																			<style>#nd_travel_search_component_id_264435 #nd_travel_search_components_tax_0{ display:none; } #nd_travel_search_component_id_264435 #nd_travel_search_components_tax_1{ display:none; } #nd_travel_search_component_id_264435 #nd_travel_search_components_tax_2{ display:none; } </style>
-																			<style>
-																				.nd_travel_dark_fields {
-																				background-color: #4a515b !important;
-																				border-width: 0px !important;
-																				} 
-																			</style>
-																			<div id="nd_travel_search_component_id_264435" class="nd_travel_section  ">
-																				<!--START FORM-->
-																				<form action="http://www.nicdarkthemes.com/themes/travel/wp/demo/travel/search-1/" method="get">
-																					<div style="padding:10px;" id="nd_travel_search_components_keyword" class=" nd_travel_width_25_percentage nd_travel_float_left nd_travel_float_left nd_travel_width_100_percentage_responsive nd_travel_box_sizing_border_box">
-																						<input id="nd_travel_vc_search_l1_keyword" name="nd_travel_archive_form_keyword" placeholder="Insert keyword" value="" class=" nd_travel_dark_fields nd_travel_section" type="text">
-																					</div>
-																					<div style="padding:10px;" id="nd_travel_search_components_destinations" class="nd_travel_width_25_percentage nd_travel_float_left nd_travel_float_left nd_travel_width_100_percentage_responsive nd_travel_box_sizing_border_box">
-																						<select class="nd_travel_section nd_travel_dark_fields " name="nd_travel_archive_form_destinations">
-																							<option value="0">All Destinations</option>
-																							<option value="24">Europe</option>
-																							<option value="362">&nbsp;&nbsp;- England</option>
-																							<option value="361">&nbsp;&nbsp;- Italy</option>
-																							<option value="23">Asia</option>
-																							<option value="22">America</option>
-																							<option value="21">Africa</option>
-																							<option value="20">Oceania</option>
-																						</select>
-																					</div>
-																					<div style="padding:10px;" id="nd_travel_search_components_typlogies" class=" nd_travel_width_25_percentage nd_travel_float_left nd_travel_float_left nd_travel_width_100_percentage_responsive nd_travel_box_sizing_border_box">
-																						<select class="nd_travel_section nd_travel_dark_fields " name="nd_travel_typology_slug">
-																							<option value="">All Typologies</option>
-																							<option value="255">Relax</option>
-																							<option value="19">Cultural</option>
-																							<option value="18">Sport</option>
-																							<option value="17">History</option>
-																						</select>
-																					</div>
-																					<div style="padding:10px;" id="nd_travel_search_components_tax_0" class=" nd_travel_width_25_percentage nd_travel_float_left nd_travel_float_left nd_travel_width_100_percentage_responsive nd_travel_box_sizing_border_box">
-																						<select class="nd_travel_section nd_travel_dark_fields " name="nd_travel_cpt_1_tax_1">
-																							<option value="">All Durations</option>
-																							<option value="2">1 - 3 Days</option>
-																							<option value="3">3 - 6 Days</option>
-																							<option value="4">6 - 9 Days</option>
-																							<option value="5">9 - 12 Days</option>
-																						</select>
-																					</div>
-																					<div style="padding:10px;" id="nd_travel_search_components_tax_1" class=" nd_travel_width_25_percentage nd_travel_float_left nd_travel_float_left nd_travel_width_100_percentage_responsive nd_travel_box_sizing_border_box">
-																						<select class="nd_travel_section nd_travel_dark_fields " name="nd_travel_cpt_1_tax_2">
-																							<option value="">All Difficulty</option>
-																							<option value="8">High</option>
-																							<option value="6">Low</option>
-																							<option value="7">Medium</option>
-																						</select>
-																					</div>
-																					<div style="padding:10px;" id="nd_travel_search_components_tax_2" class=" nd_travel_width_25_percentage nd_travel_float_left nd_travel_float_left nd_travel_width_100_percentage_responsive nd_travel_box_sizing_border_box">
-																						<select class="nd_travel_section nd_travel_dark_fields " name="nd_travel_cpt_1_tax_3">
-																							<option value="">All Min Age</option>
-																							<option value="10">10 Years</option>
-																							<option value="11">18 years</option>
-																							<option value="9">3 Years</option>
-																						</select>
-																					</div>
-																					<div style="padding:10px;" id="nd_travel_search_components_submit" class=" nd_travel_width_25_percentage nd_travel_float_left nd_travel_float_left nd_travel_width_100_percentage_responsive nd_travel_box_sizing_border_box">
-																						<input style="padding: ; background-color:#1bbc9b;" class="nd_options_color_white nd_options_second_font_important nd_travel_width_100_percentage " type="submit" value="SEARCH">
-																					</div>
-																				</form>
-																				<!--END FORM-->
-																			</div>
-																		</div>
-																	</div>
-																</div>
-															</div>
-															<div style="background-color:; height: 59px;" class="nicdark_section  "></div>
-														</div>
-													</div> --}}
 													<div class="vc_tta-panel vc_active" id="contact-info" data-vc-content=".vc_tta-panel-body">
 														<div class="vc_tta-panel-heading">
 															<h4 class="vc_tta-panel-title"><a href="#contact-info" data-vc-accordion="" data-vc-container=".vc_tta-container"><i class="vc_tta-icon vc-material vc-material-settings_input_composite"></i><span class="vc_tta-title-text">ADVANCED</span></a></h4>
@@ -1863,15 +1406,15 @@
 			<!--END copyright-->
 		</div>
 		<!--END theme-->
-		<!-- Global site tag (gtag.js) - Google Analytics -->
-		<script async="" src="{{ asset('assets/js/js') }}"></script>
-		<script>
+		
+		{{-- <script async="" src="{{ asset('assets/js/js') }}"></script> --}}
+		<?php /*<script>
 			window.dataLayer = window.dataLayer || [];
 			function gtag(){dataLayer.push(arguments);}
 			gtag('js', new Date());
 			
 			gtag('config', 'UA-49425562-22');
-		</script>
+		</script> */?>
 		{{-- <script type="text/javascript">
 			function revslider_showDoubleJqueryError(sliderID) {
 				var errorMessage = "Revolution Slider Error: You have some jquery.js library include that comes after the revolution files js include.";
@@ -1884,11 +1427,6 @@
 		</script> --}}
 		<link rel="stylesheet" id="vc_tta_style-css" href="{{ asset('assets/css/js_composer_tta.min.css') }}" type="text/css" media="all">
 		<link rel="stylesheet" id="vc_material-css" href="{{ asset('assets/css/vc_material.min.css') }}" type="text/css" media="all">
-		<script type="text/javascript">
-			/* <![CDATA[ */
-			var wpcf7 = {"apiSettings":{"root":"http:\/\/www.nicdarkthemes.com\/themes\/travel\/wp\/demo\/travel\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
-			/* ]]> */
-		</script>
 		<script type="text/javascript" src="{{ asset('assets/js/scripts.js') }}"></script>
 		<script type="text/javascript" src="{{ asset('assets/js/jquery.blockUI.min.js') }}"></script>
 		<script type="text/javascript" src="{{ asset('assets/js/js.cookie.min.js') }}"></script>
@@ -1920,9 +1458,9 @@
         <script src="{{ asset('assets/js/jquery.validate-additional-methods.js') }}"></script>
 
 		<script type="text/javascript">
-            $(document).ready(function (){
+            /*$(document).ready(function (){
                 InitFormValidation();
-            });
+            });*/
 
             function InitFormValidation() {
                 $("#contact-form").validate({
