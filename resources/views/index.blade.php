@@ -407,7 +407,7 @@
 														</a>
 													</div>
 													<div class="nd_travel_section nd_travel_padding_20 nd_travel_box_sizing_border_box">
-														<p class="nd_travel_packages_pg_l1_text_preview">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ut efficitur ante. Donec dapibus dictum scelerisque.</p>
+														<p class="nd_travel_packages_pg_l1_text_preview">Blessings overflows at the Golden temple at all those who step in. Peaceful place to stay to be free from all stress and difficulties.</p>
 														<div class="nd_travel_section nd_travel_height_20"></div>
 														<a href="javascript:;" class="nd_travel_packages_pg_l1_button nd_travel_border_1_solid_grey nd_travel_padding_10_20 nd_options_second_font_important nd_travel_border_radius_0_important nd_travel_background_color_transparent_important nd_travel_cursor_pointer nd_travel_display_inline_block">DETAILS</a>
 													</div>
@@ -495,7 +495,7 @@
 														</a>
 													</div>
 													<div class="nd_travel_section nd_travel_padding_20 nd_travel_box_sizing_border_box">
-														<p class="nd_travel_packages_pg_l1_text_preview">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ut efficitur ante. Donec dapibus dictum scelerisque.</p>
+														<p class="nd_travel_packages_pg_l1_text_preview">Nine petals with a centralised dome resembling the flower lotus stands as the house of worship and master piece of art.</p>
 														<div class="nd_travel_section nd_travel_height_20"></div>
 														<a href="javascript:;" class="nd_travel_packages_pg_l1_button nd_travel_border_1_solid_grey nd_travel_padding_10_20 nd_options_second_font_important nd_travel_border_radius_0_important nd_travel_background_color_transparent_important nd_travel_cursor_pointer nd_travel_display_inline_block">DETAILS</a>
 													</div>
@@ -514,7 +514,7 @@
 														</a>
 													</div>
 													<div class="nd_travel_section nd_travel_padding_20 nd_travel_box_sizing_border_box">
-														<p class="nd_travel_packages_pg_l1_text_preview">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ut efficitur ante. Donec dapibus dictum scelerisque.</p>
+														<p class="nd_travel_packages_pg_l1_text_preview">Magnificent structure of the building adds up to sunrise and sunset in style while making it a comfortable place for walks, yoga and outdoor games.</p>
 														<div class="nd_travel_section nd_travel_height_20"></div>
 														<a href="javascript:;" class="nd_travel_packages_pg_l1_button nd_travel_border_1_solid_grey nd_travel_padding_10_20 nd_options_second_font_important nd_travel_border_radius_0_important nd_travel_background_color_transparent_important nd_travel_cursor_pointer nd_travel_display_inline_block">DETAILS</a>
 													</div>
@@ -979,7 +979,7 @@
 														<h3 class="nd_travel_font_weight_normal nd_travel_box_sizing_border_box">Bus Ticket Booking </h3>
 													</a>
 													<div class="nd_travel_section nd_travel_height_20"></div>
-													<p class="nd_travel_packages_pg_l2_responsive_text_preview">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ut efficitur ante. Donec dapibus dictum scelerisque.</p>
+													<p class="nd_travel_packages_pg_l2_responsive_text_preview">Roads are hard but your journey can be smooth. Get as excited as we are on reaching your dream places. Book your bus tickets at an affordable price.</p>
 													<div class="nd_travel_section nd_travel_height_20"></div>
 													<!-- <a style="background-color:#f3a46b" class="nd_travel_packages_pg_l2_responsive_price nd_travel_font_size_20 nd_travel_float_left nd_travel_padding_10_20 nd_options_color_white" href="javascript:;">
 													<span class="">1500</span>  <span class="nd_travel_font_size_20">$</span>
@@ -999,7 +999,7 @@
 																<h4 class="nd_options_color_grey nd_travel_border_bottom_1_solid_grey nd_travel_bg_grey nd_travel_font_weight_normal nd_travel_padding_20 nd_travel_box_sizing_border_box">Bus Ticket Booking </h4>
 															</a>
 															<div class="nd_travel_section nd_travel_padding_20 nd_travel_box_sizing_border_box">
-																<p class="nd_travel_packages_pg_l2_text_preview">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ut efficitur ante. Donec dapibus dictum scelerisque.</p>
+																<p class="nd_travel_packages_pg_l2_text_preview">Roads are hard but your journey can be smooth. Get as excited as we are on reaching your dream places. Book your bus tickets at an affordable price.</p>
 															</div>
 															<div class="nd_travel_packages_pg_l2_typologies_list_icons nd_travel_section nd_travel_padding_bottom_20 nd_travel_padding_left_20 nd_travel_padding_right_20 nd_travel_box_sizing_border_box"></div>
 														</div>
@@ -1028,7 +1028,7 @@
 												<img class="nd_travel_section" alt="" src="{{ asset('assets/images/package-london.jpg') }}">
 												<div class="nd_travel_section nd_travel_border_1_solid_grey nd_travel_padding_20 nd_travel_box_sizing_border_box nd_travel_bg_white nd_travel_overflow_hidden nd_travel_position_relative">
 													<a class="nd_travel_packages_pg_l2_responsive_title" href="javascript:;">
-														<h3 class="nd_travel_font_weight_normal nd_travel_box_sizing_border_box">Flight Ticket Booking</h3>
+														<h3 class="nd_travel_font_weight_normal nd_travel_box_sizing_border_box">Train Ticket Booking</h3>
 													</a>
 													<div class="nd_travel_section nd_travel_height_20"></div>
 													<p class="nd_travel_packages_pg_l2_responsive_text_preview">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ut efficitur ante. Donec dapibus dictum scelerisque.</p>
@@ -1075,6 +1075,23 @@
 											</div>
 										</div>
 										<!--responsive-->
+										<div id="nd_travel_packages_pg_l2_responsive_31" class="nd_travel_masonry_item nd_travel_width_100_percentage nd_travel_width_100_percentage_responsive nd_travel_display_none nd_travel_display_block_responsive" style="position: absolute; left: 0px; top: 231px;">
+											<div class="nd_travel_section nd_travel_padding_15 nd_travel_box_sizing_border_box">
+												<img class="nd_travel_section" alt="" src="{{ asset('assets/images/package-london.jpg') }}">
+												<div class="nd_travel_section nd_travel_border_1_solid_grey nd_travel_padding_20 nd_travel_box_sizing_border_box nd_travel_bg_white nd_travel_overflow_hidden nd_travel_position_relative">
+													<a class="nd_travel_packages_pg_l2_responsive_title" href="javascript:;">
+														<h3 class="nd_travel_font_weight_normal nd_travel_box_sizing_border_box">Domestic and International Flight Ticket Booking</h3>
+													</a>
+													<div class="nd_travel_section nd_travel_height_20"></div>
+													<p class="nd_travel_packages_pg_l2_responsive_text_preview">Dream high and  fly high and let the clouds lead you to the wonders of the world. Book your flight ticket while taking a cup of coffee and be relaxed before you take off.</p>
+													<div class="nd_travel_section nd_travel_height_20"></div>
+													<!-- <a style="background-color:#f76570" class="nd_travel_packages_pg_l2_responsive_price nd_travel_font_size_20 nd_travel_float_left nd_travel_padding_10_20 nd_options_color_white" href="javascript:;">
+													<span class="">400</span>  <span class="nd_travel_font_size_20">$</span>
+													</a> -->
+												</div>
+											</div>
+										</div>
+										<!--responsive-->
 										<div id="nd_travel_packages_pg_l2_31" class="nd_travel_masonry_item nd_travel_width_100_percentage nd_travel_width_100_percentage_responsive nd_travel_display_none_responsive" style="position: absolute; left: 0px; top: 231px;">
 											<div class="nd_travel_section nd_travel_padding_15 nd_travel_box_sizing_border_box">
 												<div class="nd_travel_section nd_travel_border_1_solid_grey nd_travel_bg_white nd_travel_overflow_hidden nd_travel_position_relative">
@@ -1086,7 +1103,7 @@
 																<h4 class="nd_options_color_grey nd_travel_border_bottom_1_solid_grey nd_travel_bg_grey nd_travel_font_weight_normal nd_travel_padding_20 nd_travel_box_sizing_border_box">Domestic and International Flight Ticket Booking</h4>
 															</a>
 															<div class="nd_travel_section nd_travel_padding_20 nd_travel_box_sizing_border_box">
-																<p class="nd_travel_packages_pg_l2_text_preview">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ut efficitur ante. Donec dapibus dictum scelerisque.</p>
+																<p class="nd_travel_packages_pg_l2_text_preview">Dream high and  fly high and let the clouds lead you to the wonders of the world. Book your flight ticket while taking a cup of coffee and be relaxed before you take off.</p>
 															</div>
 															<div class="nd_travel_packages_pg_l2_typologies_list_icons nd_travel_section nd_travel_padding_bottom_20 nd_travel_padding_left_20 nd_travel_padding_right_20 nd_travel_box_sizing_border_box"></div>
 														</div>
@@ -1118,7 +1135,7 @@
 														<h3 class="nd_travel_font_weight_normal nd_travel_box_sizing_border_box">Tour Packages</h3>
 													</a>
 													<div class="nd_travel_section nd_travel_height_20"></div>
-													<p class="nd_travel_packages_pg_l2_responsive_text_preview">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ut efficitur ante. Donec dapibus dictum scelerisque.</p>
+													<p class="nd_travel_packages_pg_l2_responsive_text_preview">Packages make life easier when you want to enjoy the core of your tour time. Less worries, No regrets but only more fun guaranteed with our packages. Dive in.</p>
 													<div class="nd_travel_section nd_travel_height_20"></div>
 													<!-- <a style="background-color:#ba71da" class="nd_travel_packages_pg_l2_responsive_price nd_travel_font_size_20 nd_travel_float_left nd_travel_padding_10_20 nd_options_color_white" href="javascript:;">
 													<span class="">700</span>  <span class="nd_travel_font_size_20">$</span>
@@ -1138,7 +1155,7 @@
 																<h4 class="nd_options_color_grey nd_travel_border_bottom_1_solid_grey nd_travel_bg_grey nd_travel_font_weight_normal nd_travel_padding_20 nd_travel_box_sizing_border_box">Tour Packages</h4>
 															</a>
 															<div class="nd_travel_section nd_travel_padding_20 nd_travel_box_sizing_border_box">
-																<p class="nd_travel_packages_pg_l2_text_preview">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ut efficitur ante. Donec dapibus dictum scelerisque.</p>
+																<p class="nd_travel_packages_pg_l2_text_preview">Packages make life easier when you want to enjoy the core of your tour time. Less worries, No regrets but only more fun guaranteed with our packages. Dive in.</p>
 															</div>
 															<div class="nd_travel_packages_pg_l2_typologies_list_icons nd_travel_section nd_travel_padding_bottom_20 nd_travel_padding_left_20 nd_travel_padding_right_20 nd_travel_box_sizing_border_box"></div>
 														</div>
