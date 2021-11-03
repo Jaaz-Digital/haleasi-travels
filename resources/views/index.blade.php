@@ -973,7 +973,7 @@
 										<!--responsive-->
 										<div id="nd_travel_packages_pg_l2_responsive_29" class="nd_travel_masonry_item nd_travel_width_100_percentage nd_travel_width_100_percentage_responsive nd_travel_display_none nd_travel_display_block_responsive" style="position: absolute; left: 0px; top: 0px;">
 											<div class="nd_travel_section nd_travel_padding_15 nd_travel_box_sizing_border_box">
-												<img class="nd_travel_section" alt="" src="{{ asset('assets/images/package-rome.jpg') }}">
+												<img class="nd_travel_section" alt="" src="{{ asset('assets/images/services/bus.png') }}">
 												<div class="nd_travel_section nd_travel_border_1_solid_grey nd_travel_padding_20 nd_travel_box_sizing_border_box nd_travel_bg_white nd_travel_overflow_hidden nd_travel_position_relative">
 													<a class="nd_travel_packages_pg_l2_responsive_title" href="javascript:;">
 														<h3 class="nd_travel_font_weight_normal nd_travel_box_sizing_border_box">Bus Ticket Booking </h3>
@@ -991,7 +991,7 @@
 										<div id="nd_travel_packages_pg_l2_29" class="nd_travel_masonry_item nd_travel_width_100_percentage nd_travel_width_100_percentage_responsive nd_travel_display_none_responsive" style="position: absolute; left: 0px; top: 0px;">
 											<div class="nd_travel_section nd_travel_padding_15 nd_travel_box_sizing_border_box">
 												<div class="nd_travel_section nd_travel_border_1_solid_grey nd_travel_bg_white nd_travel_overflow_hidden nd_travel_position_relative">
-													<div style="background-image:url('assets/images/promotions/bangla-sahib-gurudwara.jpg')" class=" nd_travel_packages_pg_l2_image nd_travel_float_left nd_travel_width_30_percentage nd_travel_left_0 nd_travel_top_0 nd_travel_position_absolute nd_travel_height_100_percentage nd_travel_background_size_cover nd_travel_background_position_center">       
+													<div style="background-image:url('assets/images/services/bus.png')" class=" nd_travel_packages_pg_l2_image nd_travel_float_left nd_travel_width_30_percentage nd_travel_left_0 nd_travel_top_0 nd_travel_position_absolute nd_travel_height_100_percentage nd_travel_background_size_cover nd_travel_background_position_center">       
 													</div>
 													<div class=" nd_travel_packages_pg_middle_content nd_travel_float_left nd_travel_width_50_percentage nd_travel_margin_left_30_percentage">
 														<div class="nd_travel_section nd_travel_bg_white nd_travel_min_height_150">
@@ -1025,7 +1025,7 @@
 										<!--responsive-->
 										<div id="nd_travel_packages_pg_l2_responsive_31" class="nd_travel_masonry_item nd_travel_width_100_percentage nd_travel_width_100_percentage_responsive nd_travel_display_none nd_travel_display_block_responsive" style="position: absolute; left: 0px; top: 231px;">
 											<div class="nd_travel_section nd_travel_padding_15 nd_travel_box_sizing_border_box">
-												<img class="nd_travel_section" alt="" src="{{ asset('assets/images/package-london.jpg') }}">
+												<img class="nd_travel_section" alt="" src="{{ asset('assets/images/services/train.png') }}">
 												<div class="nd_travel_section nd_travel_border_1_solid_grey nd_travel_padding_20 nd_travel_box_sizing_border_box nd_travel_bg_white nd_travel_overflow_hidden nd_travel_position_relative">
 													<a class="nd_travel_packages_pg_l2_responsive_title" href="javascript:;">
 														<h3 class="nd_travel_font_weight_normal nd_travel_box_sizing_border_box">Train Ticket Booking</h3>
@@ -1043,7 +1043,7 @@
 										<div id="nd_travel_packages_pg_l2_31" class="nd_travel_masonry_item nd_travel_width_100_percentage nd_travel_width_100_percentage_responsive nd_travel_display_none_responsive" style="position: absolute; left: 0px; top: 231px;">
 											<div class="nd_travel_section nd_travel_padding_15 nd_travel_box_sizing_border_box">
 												<div class="nd_travel_section nd_travel_border_1_solid_grey nd_travel_bg_white nd_travel_overflow_hidden nd_travel_position_relative">
-													<div style="background-image:url(assets/images/promotions/gyarahmurti.png)" class=" nd_travel_packages_pg_l2_image nd_travel_float_left nd_travel_width_30_percentage nd_travel_left_0 nd_travel_top_0 nd_travel_position_absolute nd_travel_height_100_percentage nd_travel_background_size_cover nd_travel_background_position_center">       
+													<div style="background-image:url(assets/images/services/train.png)" class=" nd_travel_packages_pg_l2_image nd_travel_float_left nd_travel_width_30_percentage nd_travel_left_0 nd_travel_top_0 nd_travel_position_absolute nd_travel_height_100_percentage nd_travel_background_size_cover nd_travel_background_position_center">       
 													</div>
 													<div class=" nd_travel_packages_pg_middle_content nd_travel_float_left nd_travel_width_50_percentage nd_travel_margin_left_30_percentage">
 														<div class="nd_travel_section nd_travel_bg_white nd_travel_min_height_150">
@@ -1077,7 +1077,7 @@
 										<!--responsive-->
 										<div id="nd_travel_packages_pg_l2_responsive_31" class="nd_travel_masonry_item nd_travel_width_100_percentage nd_travel_width_100_percentage_responsive nd_travel_display_none nd_travel_display_block_responsive" style="position: absolute; left: 0px; top: 231px;">
 											<div class="nd_travel_section nd_travel_padding_15 nd_travel_box_sizing_border_box">
-												<img class="nd_travel_section" alt="" src="{{ asset('assets/images/package-london.jpg') }}">
+												<img class="nd_travel_section" alt="" src="{{ asset('assets/images/services/aeroplane.png') }}">
 												<div class="nd_travel_section nd_travel_border_1_solid_grey nd_travel_padding_20 nd_travel_box_sizing_border_box nd_travel_bg_white nd_travel_overflow_hidden nd_travel_position_relative">
 													<a class="nd_travel_packages_pg_l2_responsive_title" href="javascript:;">
 														<h3 class="nd_travel_font_weight_normal nd_travel_box_sizing_border_box">Domestic and International Flight Ticket Booking</h3>
@@ -1095,7 +1095,7 @@
 										<div id="nd_travel_packages_pg_l2_31" class="nd_travel_masonry_item nd_travel_width_100_percentage nd_travel_width_100_percentage_responsive nd_travel_display_none_responsive" style="position: absolute; left: 0px; top: 231px;">
 											<div class="nd_travel_section nd_travel_padding_15 nd_travel_box_sizing_border_box">
 												<div class="nd_travel_section nd_travel_border_1_solid_grey nd_travel_bg_white nd_travel_overflow_hidden nd_travel_position_relative">
-													<div style="background-image:url(assets/images/promotions/gyarahmurti.png)" class=" nd_travel_packages_pg_l2_image nd_travel_float_left nd_travel_width_30_percentage nd_travel_left_0 nd_travel_top_0 nd_travel_position_absolute nd_travel_height_100_percentage nd_travel_background_size_cover nd_travel_background_position_center">       
+													<div style="background-image:url(assets/images/services/aeroplane.png)" class=" nd_travel_packages_pg_l2_image nd_travel_float_left nd_travel_width_30_percentage nd_travel_left_0 nd_travel_top_0 nd_travel_position_absolute nd_travel_height_100_percentage nd_travel_background_size_cover nd_travel_background_position_center">       
 													</div>
 													<div class=" nd_travel_packages_pg_middle_content nd_travel_float_left nd_travel_width_50_percentage nd_travel_margin_left_30_percentage">
 														<div class="nd_travel_section nd_travel_bg_white nd_travel_min_height_150">
@@ -1129,7 +1129,7 @@
 										<!--responsive-->
 										<div id="nd_travel_packages_pg_l2_responsive_33" class="nd_travel_masonry_item nd_travel_width_100_percentage nd_travel_width_100_percentage_responsive nd_travel_display_none nd_travel_display_block_responsive" style="position: absolute; left: 0px; top: 462px;">
 											<div class="nd_travel_section nd_travel_padding_15 nd_travel_box_sizing_border_box">
-												<img class="nd_travel_section" alt="" src="{{ asset('assets/images/package-berlin.jpg') }}">
+												<img class="nd_travel_section" alt="" src="{{ asset('assets/images/services/tour-package.png') }}">
 												<div class="nd_travel_section nd_travel_border_1_solid_grey nd_travel_padding_20 nd_travel_box_sizing_border_box nd_travel_bg_white nd_travel_overflow_hidden nd_travel_position_relative">
 													<a class="nd_travel_packages_pg_l2_responsive_title" href="javascript:;">
 														<h3 class="nd_travel_font_weight_normal nd_travel_box_sizing_border_box">Tour Packages</h3>
@@ -1147,7 +1147,7 @@
 										<div id="nd_travel_packages_pg_l2_33" class="nd_travel_masonry_item nd_travel_width_100_percentage nd_travel_width_100_percentage_responsive nd_travel_display_none_responsive" style="position: absolute; left: 0px; top: 462px;">
 											<div class="nd_travel_section nd_travel_padding_15 nd_travel_box_sizing_border_box">
 												<div class="nd_travel_section nd_travel_border_1_solid_grey nd_travel_bg_white nd_travel_overflow_hidden nd_travel_position_relative">
-													<div style="background-image:url(assets/images/promotions/teenmurti.jpg)" class=" nd_travel_packages_pg_l2_image nd_travel_float_left nd_travel_width_30_percentage nd_travel_left_0 nd_travel_top_0 nd_travel_position_absolute nd_travel_height_100_percentage nd_travel_background_size_cover nd_travel_background_position_center">       
+													<div style="background-image:url(assets/images/services/tour-package.png)" class=" nd_travel_packages_pg_l2_image nd_travel_float_left nd_travel_width_30_percentage nd_travel_left_0 nd_travel_top_0 nd_travel_position_absolute nd_travel_height_100_percentage nd_travel_background_size_cover nd_travel_background_position_center">       
 													</div>
 													<div class=" nd_travel_packages_pg_middle_content nd_travel_float_left nd_travel_width_50_percentage nd_travel_margin_left_30_percentage">
 														<div class="nd_travel_section nd_travel_bg_white nd_travel_min_height_150">
