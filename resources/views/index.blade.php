@@ -1194,12 +1194,12 @@
 
 @push('manual-plugins')
 	<script type="text/javascript">
-		/*$(document).ready(function (){
+		jQuery(document).ready(function (){
 			InitFormValidation();
-		});*/
+		});
 
 		function InitFormValidation() {
-			$("#contact-form").validate({
+			jQuery("#contact-form").validate({
 				rules : {
 					name: {
 						required: true
