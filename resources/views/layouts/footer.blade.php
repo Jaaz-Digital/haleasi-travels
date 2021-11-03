@@ -95,7 +95,7 @@
     <!--start nd_options_container-->
     <div style="border-top: 1px solid #f1f1f1 " class="nd_options_container nd_options_clearfix">
         <div class="grid nd_options_grid_6 nd_options_text_align_center_responsive">
-            <p class="nd_options_font_size_14 nd_options_line_height_25_responsive">© Copyright {{ date('Y') }} Halesi Travels</p>
+            <p class="nd_options_font_size_14 nd_options_line_height_25_responsive">© Copyright {{ date('Y') }} Halesi Travel Pvt. Ltd.</p>
         </div>
         {{-- <div class="grid nd_options_grid_6 nd_options_text_align_right nd_options_text_align_center_responsive">
             <p class="nd_options_font_size_14 nd_options_line_height_25_responsive">Best Travel WordPress Theme</p>

@@ -64,7 +64,7 @@
                             <strong>1.</strong>Atlas Travel may also have various links to connecting with the other websites. When you click on these links, you enter another website. We don’t have any responsibility whatsoever. You are requested to study the policy of that particular website.</p>
                             <p><strong>2.</strong> There are some pages of our website using “cookies” so that Atlas Travel can provide better services to you with customized information when you return back to our website. Google’s use of the cookie enables it to serve ads to your users based on their visit to your sites and another sites on the Internet. You may set your browser to indicating you when you are sent a cookie, showing you the option to decide whether or not to accept it.</p>
                             <p>&nbsp;</p>
-                            <h2>Thank you for visiting <strong>Halesi Travels</strong>!</h2>
+                            <h2>Thank you for visiting <strong>Halesi Travel</strong>!</h2>
                         </div>
                     </div>
                 </div>
