@@ -36,14 +36,25 @@
                         <div class="wpb_column vc_column_container vc_col-sm-4">
                             <div class="vc_column-inner ">
                                 <div class="wpb_wrapper">
-                                    <h3 style="color:#ffffff; padding:px; text-align:; font-size:20px; line-height:20px; letter-spacing: px; font-weight:normal;" class="  nd_options_margin_top_50_responsive nd_options_first_font ">Newsletter</h3>
+                                    <h3 style="color:#ffffff; padding:px; text-align:; font-size:20px; line-height:20px; letter-spacing: px; font-weight:normal;" class="  nd_options_margin_top_50_responsive nd_options_first_font ">Important Links</h3>
                                     <div style="background-color:; height: 10px;" class="nicdark_section  "></div>
-                                    <p style="color:#a3a3a4; padding:px; text-align:; font-size:12px; line-height:12px; letter-spacing: px; font-weight:;" class="   nd_options_second_font ">SIGN UP FOR SPECIAL OFFERS</p>
-                                    <div style="background-color:; height: 20px;" class="nicdark_section  "></div>
+                                    {{-- <p style="color:#a3a3a4; padding:px; text-align:; font-size:12px; line-height:12px; letter-spacing: px; font-weight:;" class="   nd_options_second_font ">SIGN UP FOR SPECIAL OFFERS</p> --}}
+                                    <div style="background-color:; height: 5px;" class="nicdark_section  "></div>
                                     <!--start form-->
                                     <div id="nd_options_shortcode_cf7_72" class="nd_options_section ">
                                         <div class="nd_options_section nd_options_box_sizing_border_box">
-                                            <div role="form" class="wpcf7" id="wpcf7-f72-o2" lang="en-US" dir="ltr">
+                                            <div class="nd_options_display_none_all_responsive">
+                                                <div class="nd_options_display_table_cell">
+                                                    <div class="menu-menu-1-container">
+                                                        <ul id="menu-menu-2" class="menu">
+                                                            <li class="menu-item" style="border: none; padding: 0px;"><a href="{{ route('aboutUs') }}" aria-current="page">About Us</a></li>
+                                                            <li class="menu-item" style="border: none; padding: 0px;"><a href="{{ route('welcome') }}/#contact-us" aria-current="page">Contact</a></li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div style="height: 10px;" class="nd_options_section"></div>
+                                            {{-- <div role="form" class="wpcf7" id="wpcf7-f72-o2" lang="en-US" dir="ltr">
                                                 <div class="screen-reader-response"></div>
                                                 <form action="javascript:;wpcf7-f72-o2" method="post" class="wpcf7-form" novalidate="novalidate">
                                                     <div style="display: none;">
@@ -55,11 +66,11 @@
                                                     </div>
                                                     <p></p>
                                                     <div class="nd_options_float_left nd_options_box_sizing_border_box nd_options_width_100_percentage_all_iphone_important nd_options_padding_0_right_important_all_iphone nd_options_padding_0_left_important_all_iphone " style="padding: 0px 0px 0px 0px; width:60%;"><span class="wpcf7-form-control-wrap email"><input type="email" name="email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email nd_options_width_100_percentage nd_options_line_height_21 nd_travel_bg_greydark_2_important nd_travel_border_width_0_important" aria-required="true" aria-invalid="false" placeholder="Email"></span></div>
-                                                    {{-- <div class="nd_options_float_left nd_options_box_sizing_border_box nd_options_width_100_percentage_all_iphone_important nd_options_padding_0_right_important_all_iphone nd_options_padding_0_left_important_all_iphone " style="padding: 0px 0px 0px 0px; width:40%;"><input type="submit" value="SUBSCRIBE" class="wpcf7-form-control wpcf7-submit nd_travel_padding_15_30_important nd_options_second_font_important nd_options_color_white nd_travel_display_inline_block nd_travel_font_size_11 nd_travel_letter_spacing_2 nd_travel_section"><span class="ajax-loader"></span></div> --}}
+                                                    <div class="nd_options_float_left nd_options_box_sizing_border_box nd_options_width_100_percentage_all_iphone_important nd_options_padding_0_right_important_all_iphone nd_options_padding_0_left_important_all_iphone " style="padding: 0px 0px 0px 0px; width:40%;"><input type="submit" value="SUBSCRIBE" class="wpcf7-form-control wpcf7-submit nd_travel_padding_15_30_important nd_options_second_font_important nd_options_color_white nd_travel_display_inline_block nd_travel_font_size_11 nd_travel_letter_spacing_2 nd_travel_section"><span class="ajax-loader"></span></div>
                                                     <p></p>
                                                     <div class="wpcf7-response-output wpcf7-display-none"></div>
                                                 </form>
-                                            </div>
+                                            </div> --}}
                                         </div>
                                     </div>
                                     <!--end form-->

@@ -254,7 +254,7 @@
 												<!-- <a class="nd_travel_position_absolute nd_travel_top_0 nd_travel_left_0 nd_travel_bg_white nd_travel_padding_10_20" href="javascript:;">
 												<span class="">700</span>  <span class="">$</span>
 												</a> -->
-												<img alt="" class="nd_travel_section" src="{{ asset('assets/images/promotions/bangla-sahib-gurudwara.jpg') }}">
+												<img alt="" class="nd_travel_section" src="{{ asset('assets/images/promotions/bangla-sahib-gurudwara.png') }}">
 											</div>
 											<div class="nd_travel_section">
 												<a class="nd_travel_packages_pg_l1_title" href="javascript:;">
@@ -264,73 +264,7 @@
 											<div class="nd_travel_section nd_travel_padding_20 nd_travel_box_sizing_border_box">
 												<p class="nd_travel_packages_pg_l1_text_preview">Blessings overflows at the Golden temple at all those who step in. Peaceful place to stay to be free from all stress and difficulties.</p>
 												<div class="nd_travel_section nd_travel_height_20"></div>
-												<a href="javascript:;" class="nd_travel_packages_pg_l1_button nd_travel_border_1_solid_grey nd_travel_padding_10_20 nd_options_second_font_important nd_travel_border_radius_0_important nd_travel_background_color_transparent_important nd_travel_cursor_pointer nd_travel_display_inline_block">DETAILS</a>
-											</div>
-										</div>
-									</div>
-								</div>
-								<div id="nd_travel_packages_pg_l1_32" class="nd_travel_masonry_item nd_travel_width_33_percentage nd_travel_float_left nd_travel_width_100_percentage_responsive" style="position: absolute; left: 399px; top: 0px;">
-									<div class="nd_travel_section nd_travel_padding_15 nd_travel_box_sizing_border_box">
-										<div class="nd_travel_section nd_travel_border_1_solid_grey nd_travel_bg_white">
-											<div class="nd_travel_packages_pg_l1_image nd_travel_overflow_hidden nd_travel_section nd_travel_position_relative">
-												<!-- <a class="nd_travel_position_absolute nd_travel_top_0 nd_travel_left_0 nd_travel_bg_white nd_travel_padding_10_20" href="javascript:;">
-												<span class="nd_travel_text_decoration_line_through">1000</span> 500 <span class="">$</span>
-												</a> -->
-												<img alt="" class="nd_travel_section" src="{{ asset('assets/images/promotions/gyarahmurti.png') }}">
-											</div>
-											<div class="nd_travel_section">
-												<a class="nd_travel_packages_pg_l1_title" href="javascript:;">
-													<h3 class="nd_options_color_white nd_travel_bg_greydark nd_travel_font_weight_normal nd_travel_padding_20 nd_travel_box_sizing_border_box">GyarahMurti</h3>
-												</a>
-											</div>
-											<div class="nd_travel_section nd_travel_padding_20 nd_travel_box_sizing_border_box">
-												<p class="nd_travel_packages_pg_l1_text_preview">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ut efficitur ante. Donec dapibus dictum scelerisque.</p>
-												<div class="nd_travel_section nd_travel_height_20"></div>
-												<a href="javascript:;" class="nd_travel_packages_pg_l1_button nd_travel_border_1_solid_grey nd_travel_padding_10_20 nd_options_second_font_important nd_travel_border_radius_0_important nd_travel_background_color_transparent_important nd_travel_cursor_pointer nd_travel_display_inline_block">DETAILS</a>
-											</div>
-										</div>
-									</div>
-								</div>
-								<div id="nd_travel_packages_pg_l1_31" class="nd_travel_masonry_item nd_travel_width_33_percentage nd_travel_float_left nd_travel_width_100_percentage_responsive" style="position: absolute; left: 799px; top: 0px;">
-									<div class="nd_travel_section nd_travel_padding_15 nd_travel_box_sizing_border_box">
-										<div class="nd_travel_section nd_travel_border_1_solid_grey nd_travel_bg_white">
-											<div class="nd_travel_packages_pg_l1_image nd_travel_overflow_hidden nd_travel_section nd_travel_position_relative">
-												<!-- <a class="nd_travel_position_absolute nd_travel_top_0 nd_travel_left_0 nd_travel_bg_white nd_travel_padding_10_20" href="javascript:;">
-												<span class="">400</span>  <span class="">$</span>
-												</a> -->
-												<img alt="" class="nd_travel_section" src="{{ asset('assets/images/promotions/teenmurti.jpg') }}">
-											</div>
-											<div class="nd_travel_section">
-												<a class="nd_travel_packages_pg_l1_title" href="javascript:;">
-													<h3 class="nd_options_color_white nd_travel_bg_greydark nd_travel_font_weight_normal nd_travel_padding_20 nd_travel_box_sizing_border_box">TeenMurti</h3>
-												</a>
-											</div>
-											<div class="nd_travel_section nd_travel_padding_20 nd_travel_box_sizing_border_box">
-												<p class="nd_travel_packages_pg_l1_text_preview">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ut efficitur ante. Donec dapibus dictum scelerisque.</p>
-												<div class="nd_travel_section nd_travel_height_20"></div>
-												<a href="javascript:;" class="nd_travel_packages_pg_l1_button nd_travel_border_1_solid_grey nd_travel_padding_10_20 nd_options_second_font_important nd_travel_border_radius_0_important nd_travel_background_color_transparent_important nd_travel_cursor_pointer nd_travel_display_inline_block">DETAILS</a>
-											</div>
-										</div>
-									</div>
-								</div>
-								<div id="nd_travel_packages_pg_l1_30" class="nd_travel_masonry_item nd_travel_width_33_percentage nd_travel_float_left nd_travel_width_100_percentage_responsive" style="position: absolute; left: 0px; top: 565px;">
-									<div class="nd_travel_section nd_travel_padding_15 nd_travel_box_sizing_border_box">
-										<div class="nd_travel_section nd_travel_border_1_solid_grey nd_travel_bg_white">
-											<div class="nd_travel_packages_pg_l1_image nd_travel_overflow_hidden nd_travel_section nd_travel_position_relative">
-												<!-- <a class="nd_travel_position_absolute nd_travel_top_0 nd_travel_left_0 nd_travel_bg_white nd_travel_padding_10_20" href="javascript:;">
-												<span class="">1200</span>  <span class="">$</span>
-												</a> -->
-												<img alt="" class="nd_travel_section" src="{{ asset('assets/images/promotions/parliament-house.jpg') }}">
-											</div>
-											<div class="nd_travel_section">
-												<a class="nd_travel_packages_pg_l1_title" href="javascript:;">
-													<h3 class="nd_options_color_white nd_travel_bg_greydark nd_travel_font_weight_normal nd_travel_padding_20 nd_travel_box_sizing_border_box">Parliament House</h3>
-												</a>
-											</div>
-											<div class="nd_travel_section nd_travel_padding_20 nd_travel_box_sizing_border_box">
-												<p class="nd_travel_packages_pg_l1_text_preview">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ut efficitur ante. Donec dapibus dictum scelerisque.</p>
-												<div class="nd_travel_section nd_travel_height_20"></div>
-												<a href="javascript:;" class="nd_travel_packages_pg_l1_button nd_travel_border_1_solid_grey nd_travel_padding_10_20 nd_options_second_font_important nd_travel_border_radius_0_important nd_travel_background_color_transparent_important nd_travel_cursor_pointer nd_travel_display_inline_block">DETAILS</a>
+												{{-- <a href="javascript:;" class="nd_travel_packages_pg_l1_button nd_travel_border_1_solid_grey nd_travel_padding_10_20 nd_options_second_font_important nd_travel_border_radius_0_important nd_travel_background_color_transparent_important nd_travel_cursor_pointer nd_travel_display_inline_block">DETAILS</a> --}}
 											</div>
 										</div>
 									</div>
@@ -342,7 +276,7 @@
 												<!-- <a class="nd_travel_position_absolute nd_travel_top_0 nd_travel_left_0 nd_travel_bg_white nd_travel_padding_10_20" href="javascript:;">
 												<span class="">1500</span>  <span class="">$</span>
 												</a> -->
-												<img alt="" class="nd_travel_section" src="{{ asset('assets/images/promotions/lotus-temple.jpg') }}">
+												<img alt="" class="nd_travel_section" src="{{ asset('assets/images/promotions/lotus-temple.png') }}">
 											</div>
 											<div class="nd_travel_section">
 												<a class="nd_travel_packages_pg_l1_title" href="javascript:;">
@@ -352,7 +286,51 @@
 											<div class="nd_travel_section nd_travel_padding_20 nd_travel_box_sizing_border_box">
 												<p class="nd_travel_packages_pg_l1_text_preview">Nine petals with a centralised dome resembling the flower lotus stands as the house of worship and master piece of art.</p>
 												<div class="nd_travel_section nd_travel_height_20"></div>
-												<a href="javascript:;" class="nd_travel_packages_pg_l1_button nd_travel_border_1_solid_grey nd_travel_padding_10_20 nd_options_second_font_important nd_travel_border_radius_0_important nd_travel_background_color_transparent_important nd_travel_cursor_pointer nd_travel_display_inline_block">DETAILS</a>
+												{{-- <a href="javascript:;" class="nd_travel_packages_pg_l1_button nd_travel_border_1_solid_grey nd_travel_padding_10_20 nd_options_second_font_important nd_travel_border_radius_0_important nd_travel_background_color_transparent_important nd_travel_cursor_pointer nd_travel_display_inline_block">DETAILS</a> --}}
+											</div>
+										</div>
+									</div>
+								</div>
+								<div id="nd_travel_packages_pg_l1_31" class="nd_travel_masonry_item nd_travel_width_33_percentage nd_travel_float_left nd_travel_width_100_percentage_responsive" style="position: absolute; left: 799px; top: 0px;">
+									<div class="nd_travel_section nd_travel_padding_15 nd_travel_box_sizing_border_box">
+										<div class="nd_travel_section nd_travel_border_1_solid_grey nd_travel_bg_white">
+											<div class="nd_travel_packages_pg_l1_image nd_travel_overflow_hidden nd_travel_section nd_travel_position_relative">
+												<!-- <a class="nd_travel_position_absolute nd_travel_top_0 nd_travel_left_0 nd_travel_bg_white nd_travel_padding_10_20" href="javascript:;">
+												<span class="">400</span>  <span class="">$</span>
+												</a> -->
+												<img alt="" class="nd_travel_section" src="{{ asset('assets/images/promotions/qutub-minar.png') }}">
+											</div>
+											<div class="nd_travel_section">
+												<a class="nd_travel_packages_pg_l1_title" href="javascript:;">
+													<h3 class="nd_options_color_white nd_travel_bg_greydark nd_travel_font_weight_normal nd_travel_padding_20 nd_travel_box_sizing_border_box">Gutum minar</h3>
+												</a>
+											</div>
+											<div class="nd_travel_section nd_travel_padding_20 nd_travel_box_sizing_border_box">
+												<p class="nd_travel_packages_pg_l1_text_preview">The tallest minaret that captivates all visitors to climb up to the top to its memorising view. </p>
+												<div class="nd_travel_section nd_travel_height_20"></div>
+												{{-- <a href="javascript:;" class="nd_travel_packages_pg_l1_button nd_travel_border_1_solid_grey nd_travel_padding_10_20 nd_options_second_font_important nd_travel_border_radius_0_important nd_travel_background_color_transparent_important nd_travel_cursor_pointer nd_travel_display_inline_block">DETAILS</a> --}}
+											</div>
+										</div>
+									</div>
+								</div>
+								<div id="nd_travel_packages_pg_l1_30" class="nd_travel_masonry_item nd_travel_width_33_percentage nd_travel_float_left nd_travel_width_100_percentage_responsive" style="position: absolute; left: 0px; top: 565px;">
+									<div class="nd_travel_section nd_travel_padding_15 nd_travel_box_sizing_border_box">
+										<div class="nd_travel_section nd_travel_border_1_solid_grey nd_travel_bg_white">
+											<div class="nd_travel_packages_pg_l1_image nd_travel_overflow_hidden nd_travel_section nd_travel_position_relative">
+												<!-- <a class="nd_travel_position_absolute nd_travel_top_0 nd_travel_left_0 nd_travel_bg_white nd_travel_padding_10_20" href="javascript:;">
+												<span class="">1200</span>  <span class="">$</span>
+												</a> -->
+												<img alt="" class="nd_travel_section" src="{{ asset('assets/images/promotions/red-fort.png') }}">
+											</div>
+											<div class="nd_travel_section">
+												<a class="nd_travel_packages_pg_l1_title" href="javascript:;">
+													<h3 class="nd_options_color_white nd_travel_bg_greydark nd_travel_font_weight_normal nd_travel_padding_20 nd_travel_box_sizing_border_box">Red fort</h3>
+												</a>
+											</div>
+											<div class="nd_travel_section nd_travel_padding_20 nd_travel_box_sizing_border_box">
+												<p class="nd_travel_packages_pg_l1_text_preview">Enjoy the peaceful walk on the hard history of freedom and independence. </p>
+												<div class="nd_travel_section nd_travel_height_20"></div>
+												{{-- <a href="javascript:;" class="nd_travel_packages_pg_l1_button nd_travel_border_1_solid_grey nd_travel_padding_10_20 nd_options_second_font_important nd_travel_border_radius_0_important nd_travel_background_color_transparent_important nd_travel_cursor_pointer nd_travel_display_inline_block">DETAILS</a> --}}
 											</div>
 										</div>
 									</div>
@@ -361,7 +339,7 @@
 									<div class="nd_travel_section nd_travel_padding_15 nd_travel_box_sizing_border_box">
 										<div class="nd_travel_section nd_travel_border_1_solid_grey nd_travel_bg_white">
 											<div class="nd_travel_packages_pg_l1_image nd_travel_overflow_hidden nd_travel_section nd_travel_position_relative">
-												<img alt="" class="nd_travel_section" src="{{ asset('assets/images/promotions/rashtrapati-bhavan.jpg') }}">
+												<img alt="" class="nd_travel_section" src="{{ asset('assets/images/promotions/rashtrapati-bhavan.png') }}">
 											</div>
 											<div class="nd_travel_section">
 												<a class="nd_travel_packages_pg_l1_title" href="javascript:;">
@@ -371,7 +349,29 @@
 											<div class="nd_travel_section nd_travel_padding_20 nd_travel_box_sizing_border_box">
 												<p class="nd_travel_packages_pg_l1_text_preview">Magnificent structure of the building adds up to sunrise and sunset in style while making it a comfortable place for walks, yoga and outdoor games.</p>
 												<div class="nd_travel_section nd_travel_height_20"></div>
-												<a href="javascript:;" class="nd_travel_packages_pg_l1_button nd_travel_border_1_solid_grey nd_travel_padding_10_20 nd_options_second_font_important nd_travel_border_radius_0_important nd_travel_background_color_transparent_important nd_travel_cursor_pointer nd_travel_display_inline_block">DETAILS</a>
+												{{-- <a href="javascript:;" class="nd_travel_packages_pg_l1_button nd_travel_border_1_solid_grey nd_travel_padding_10_20 nd_options_second_font_important nd_travel_border_radius_0_important nd_travel_background_color_transparent_important nd_travel_cursor_pointer nd_travel_display_inline_block">DETAILS</a> --}}
+											</div>
+										</div>
+									</div>
+								</div>
+								<div id="nd_travel_packages_pg_l1_32" class="nd_travel_masonry_item nd_travel_width_33_percentage nd_travel_float_left nd_travel_width_100_percentage_responsive" style="position: absolute; left: 399px; top: 0px;">
+									<div class="nd_travel_section nd_travel_padding_15 nd_travel_box_sizing_border_box">
+										<div class="nd_travel_section nd_travel_border_1_solid_grey nd_travel_bg_white">
+											<div class="nd_travel_packages_pg_l1_image nd_travel_overflow_hidden nd_travel_section nd_travel_position_relative">
+												<!-- <a class="nd_travel_position_absolute nd_travel_top_0 nd_travel_left_0 nd_travel_bg_white nd_travel_padding_10_20" href="javascript:;">
+												<span class="nd_travel_text_decoration_line_through">1000</span> 500 <span class="">$</span>
+												</a> -->
+												<img alt="" class="nd_travel_section" src="{{ asset('assets/images/promotions/india-gate.png') }}">
+											</div>
+											<div class="nd_travel_section">
+												<a class="nd_travel_packages_pg_l1_title" href="javascript:;">
+													<h3 class="nd_options_color_white nd_travel_bg_greydark nd_travel_font_weight_normal nd_travel_padding_20 nd_travel_box_sizing_border_box">India gate</h3>
+												</a>
+											</div>
+											<div class="nd_travel_section nd_travel_padding_20 nd_travel_box_sizing_border_box">
+												<p class="nd_travel_packages_pg_l1_text_preview">The massive Stone arc stands as a great memorial of Indian soldiers who died in WWI. The glowing fire on the arc at night completely steals the heart of millions of people.</p>
+												<div class="nd_travel_section nd_travel_height_20"></div>
+												{{-- <a href="javascript:;" class="nd_travel_packages_pg_l1_button nd_travel_border_1_solid_grey nd_travel_padding_10_20 nd_options_second_font_important nd_travel_border_radius_0_important nd_travel_background_color_transparent_important nd_travel_cursor_pointer nd_travel_display_inline_block">DETAILS</a> --}}
 											</div>
 										</div>
 									</div>
@@ -530,7 +530,7 @@
 										<div class="nd_travel_section nd_travel_border_1_solid_grey nd_travel_bg_white">
 											<div class="nd_travel_destinations_pg_l1_image nd_travel_section nd_travel_position_relative">
 												<div class="nd_travel_position_absolute nd_travel_top_0 nd_travel_left_0 nd_travel_width_100_percentage nd_travel_text_align_center">
-													<a class="nd_travel_destinations_pg_l1_price nd_travel_display_inline_block nd_travel_text_transform_uppercase nd_travel_bg_white nd_travel_padding_10_20" href="javascript:;">QutubMinar</a>
+													<a class="nd_travel_destinations_pg_l1_price nd_travel_display_inline_block nd_travel_text_transform_uppercase nd_travel_bg_white nd_travel_padding_10_20" href="javascript:;">Qutub Minar</a>
 												</div>
 												<img alt="" class="nd_travel_section" src="{{ asset('assets/images/destination/qutub-minar.png') }}">
 											</div>
@@ -544,7 +544,7 @@
 												<div class="nd_travel_position_absolute nd_travel_top_0 nd_travel_left_0 nd_travel_width_100_percentage nd_travel_text_align_center">
 													<a class="nd_travel_destinations_pg_l1_price nd_travel_display_inline_block nd_travel_text_transform_uppercase nd_travel_bg_white nd_travel_padding_10_20" href="javascript:;">Handicraft Market</a>
 												</div>
-												<img alt="" class="nd_travel_section" src="{{ asset('assets/images/destination/gyarah-murti.png') }}">
+												<img alt="" class="nd_travel_section" src="{{ asset('assets/images/destination/handicraft-market.png') }}">
 											</div>
 										</div>
 									</div>
@@ -592,7 +592,7 @@
 												<div class="nd_travel_position_absolute nd_travel_top_0 nd_travel_left_0 nd_travel_width_100_percentage nd_travel_text_align_center">
 													<a class="nd_travel_destinations_pg_l1_price nd_travel_display_inline_block nd_travel_text_transform_uppercase nd_travel_bg_white nd_travel_padding_10_20" href="javascript:;">Shakti Sthal</a>
 												</div>
-												<img alt="" class="nd_travel_section" src="{{ asset('assets/images/destination/gyarah-murti.png') }}">
+												<img alt="" class="nd_travel_section" src="{{ asset('assets/images/destination/shakti-sthal.png') }}">
 											</div>
 										</div>
 									</div>
@@ -604,7 +604,7 @@
 												<div class="nd_travel_position_absolute nd_travel_top_0 nd_travel_left_0 nd_travel_width_100_percentage nd_travel_text_align_center">
 													<a class="nd_travel_destinations_pg_l1_price nd_travel_display_inline_block nd_travel_text_transform_uppercase nd_travel_bg_white nd_travel_padding_10_20" href="javascript:;">Red Fort</a>
 												</div>
-												<img alt="" class="nd_travel_section" src="{{ asset('assets/images/destination/lotus-temple.png') }}">
+												<img alt="" class="nd_travel_section" src="{{ asset('assets/images/destination/red-fort.png') }}">
 											</div>
 										</div>
 									</div>
@@ -1158,7 +1158,7 @@
 																				@enderror
 																			</div>
 																			<div style="padding:10px;" id="nd_travel_search_components_submit" class=" nd_travel_width_100_percentage nd_travel_float_left nd_travel_float_left nd_travel_width_100_percentage_responsive nd_travel_box_sizing_border_box">
-																				<input type="submit" class="nd_options_color_white nd_options_second_font_important nd_travel_width_100_percentage" style="padding: ; background-color:#1bbc9b;" value="Submit">
+																				<input type="submit" class="nd_options_color_white nd_options_second_font_important nd_travel_width_100_percentage" style="padding: ; background-color:#0c82e0;" value="Submit">
 																			</div>
 																		</form>
 																		<!--END FORM-->

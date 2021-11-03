@@ -42,7 +42,7 @@
                 <div class="vc_column-inner vc_custom_1467360650255">
                     <div class="wpb_wrapper">
                         <div style="background-color:; height: 10px;" class="nicdark_section  "></div>
-                        <h1 style="color:; padding:px; text-align:right; font-size:40px; line-height:50px; letter-spacing: px; font-weight:normal;" class="  nd_options_text_align_center_responsive_important nd_options_first_font ">All at your convenience and affordable prices with Halesi Travels and Tours.</h1>
+                        <h1 style="color:; padding:px; text-align:center; font-size:40px; line-height:50px; letter-spacing: px; font-weight:normal;" class="  nd_options_text_align_center_responsive_important nd_options_first_font ">All at your convenience and affordable prices with Halesi Travels and Tours.</h1>
                     </div>
                 </div>
             </div>
