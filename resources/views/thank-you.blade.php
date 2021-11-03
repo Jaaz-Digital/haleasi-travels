@@ -15,7 +15,7 @@
         /> -->
         <link href="https://fonts.googleapis.com/css2?family=Mulish:wght@400;600;700;800&display=swap" rel="stylesheet" />
         <link rel="stylesheet" href="./assets/main.css" />
-        <title>Haleasi Travels</title>
+        <title>Halesi Travels</title>
     </head>
     <body>
         <div class="container" style="margin-top: 50px;">

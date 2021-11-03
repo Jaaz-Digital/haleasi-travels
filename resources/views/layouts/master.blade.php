@@ -3,7 +3,7 @@
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<title>Haleasi Travel</title>
+		<title>Halesi Travel</title>
         <link rel="dns-prefetch" href="http://fonts.googleapis.com/">
         <link rel="dns-prefetch" href="http://s.w.org/">
         <link rel="stylesheet" id="wp-block-library-css" href="{{ asset('assets/css/style.min.css') }}" type="text/css" media="all">

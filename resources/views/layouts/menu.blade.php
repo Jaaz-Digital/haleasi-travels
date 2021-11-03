@@ -4,9 +4,10 @@
     <div class="nd_options_navigation_2_sidebar">
         <div class="menu-menu-1-container">
             <ul id="menu-menu-1" class="menu">
+                <li id="menu-item-55" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-53 current_page_item menu-item-55"><a href="{{ route('welcome') }}" aria-current="page">Home</a></li>
                 <li id="menu-item-55" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-53 current_page_item menu-item-55"><a href="{{ route('aboutUs') }}" aria-current="page">About</a></li>
-                <li id="menu-item-55" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-53 current_page_item menu-item-55"><a href="{{ route('welcome') }}/#contact-us" aria-current="page">Contact</a></li>
-                <li id="menu-item-52" class="nd_options_book_now_btn menu-item menu-item-type-post_type menu-item-object-page menu-item-52"><a href="tel:+91 98765 43210">Call Now</a></li>
+                <li id="menu-item-55" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-53 current_page_item menu-item-55"><a href="{{ route('welcome') }}/#contact-us" aria-current="page">Contact Us</a></li>
+                <li id="menu-item-52" class="nd_options_book_now_btn menu-item menu-item-type-post_type menu-item-object-page menu-item-52"><a href="tel:+91 911141003804">Call Now</a></li>
             </ul>
         </div>
     </div>
@@ -21,7 +22,7 @@
             <div class="nd_options_grid_12 nd_options_display_none_all_responsive">
                 <div style="height: 10px;" class="nd_options_section"></div>
                 <!--LOGO-->
-                <a href="{{ route('welcome') }}"><img style="top:20px;" alt="" class="nd_options_position_absolute nd_options_left_15" width="200" src="{{ asset('assets/images/haleasi-travel-logo.png') }}"></a>
+                <a href="{{ route('welcome') }}"><img style="top:20px;" alt="" class="nd_options_position_absolute nd_options_left_15" width="200" src="{{ asset('assets/images/halesi-travel-logo.png') }}"></a>
                 <div class="nd_options_navigation_2 nd_options_navigation_type nd_options_text_align_right nd_options_float_right nd_options_display_none_all_responsive">
                     <div class="nd_options_display_table">
                         <div class="nd_options_display_table_cell nd_options_vertical_align_middle">
@@ -40,7 +41,7 @@
             <!--RESPONSIVE-->
             <div class="nd_options_section nd_options_text_align_center nd_options_display_none nd_options_display_block_responsive">
                 <div class="nd_options_section nd_options_height_20"></div>
-                <a class="nd_options_display_inline_block" href="javascript:;"><img alt="" class="nd_options_float_left" width="136" src="{{ asset('assets/images/haleasi-travel-logo.png') }}"></a> 
+                <a class="nd_options_display_inline_block" href="javascript:;"><img alt="" class="nd_options_float_left" width="136" src="{{ asset('assets/images/halesi-travel-logo.png') }}"></a> 
                 <div class="nd_options_section nd_options_height_10"></div>
                 <div class="nd_options_section">
                     <a class="nd_options_open_navigation_2_sidebar_content nd_options_open_navigation_2_sidebar_content" href="javascript:;">

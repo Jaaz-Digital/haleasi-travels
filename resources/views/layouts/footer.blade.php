@@ -14,7 +14,7 @@
                                     <div style="background-color:; height: 10px;" class="nicdark_section  "></div>
                                     <p style="color:#a3a3a4; padding:px; text-align:; font-size:12px; line-height:12px; letter-spacing: px; font-weight:;" class="   nd_options_second_font ">9A, Channa Market, <br /> Block 9A, WEA, <br /> Karol Bagh, <br /> New Delhi - 110005</p>
                                     <div style="background-color:; height: 28px;" class="nicdark_section  "></div>
-                                    <p style="color:#ffffff; padding:px; text-align:; font-size:20px; line-height:20px; letter-spacing: 1px; font-weight:;" class="  nd_options_margin_bottom_50_responsive nd_options_second_font "><a href="tel:+91 98765 43210">+91 98765 43210</a></p>
+                                    <p style="color:#ffffff; padding:px; text-align:; font-size:20px; line-height:20px; letter-spacing: 1px; font-weight:;" class="  nd_options_margin_bottom_50_responsive nd_options_second_font "><a href="tel:+911141003804">+91 11 4100 3804</a></p>
                                 </div>
                             </div>
                         </div>
@@ -48,7 +48,10 @@
                                                     <div class="menu-menu-1-container">
                                                         <ul id="menu-menu-2" class="menu">
                                                             <li class="menu-item" style="border: none; padding: 0px;"><a href="{{ route('aboutUs') }}" aria-current="page">About Us</a></li>
-                                                            <li class="menu-item" style="border: none; padding: 0px;"><a href="{{ route('welcome') }}/#contact-us" aria-current="page">Contact</a></li>
+                                                            <li class="menu-item" style="border: none; padding: 0px;"><a href="{{ route('terms-of-services') }}/#contact-us" aria-current="page">Terms Of Services</a></li>
+                                                            <li class="menu-item" style="border: none; padding: 0px;"><a href="{{ route('privacy-policy') }}" aria-current="page">Privacy Policies</a></li>
+                                                            <li class="menu-item" style="border: none; padding: 0px;"><a href="{{ route('refund-policies') }}" aria-current="page">Refund Policies</a></li>
+                                                            <li class="menu-item" style="border: none; padding: 0px;"><a href="{{ route('welcome') }}/#contact-us" aria-current="page">Contact Us</a></li>
                                                         </ul>
                                                     </div>
                                                 </div>
@@ -92,7 +95,7 @@
     <!--start nd_options_container-->
     <div style="border-top: 1px solid #f1f1f1 " class="nd_options_container nd_options_clearfix">
         <div class="grid nd_options_grid_6 nd_options_text_align_center_responsive">
-            <p class="nd_options_font_size_14 nd_options_line_height_25_responsive">© Copyright {{ date('Y') }} Haleasi Travels</p>
+            <p class="nd_options_font_size_14 nd_options_line_height_25_responsive">© Copyright {{ date('Y') }} Halesi Travels</p>
         </div>
         {{-- <div class="grid nd_options_grid_6 nd_options_text_align_right nd_options_text_align_center_responsive">
             <p class="nd_options_font_size_14 nd_options_line_height_25_responsive">Best Travel WordPress Theme</p>

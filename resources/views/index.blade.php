@@ -22,15 +22,15 @@
 											<img src="{{ asset('assets/images/slider/slider1.png') }}" alt="" title="parallax-2" width="1920" height="1080" data-bgposition="center top" data-kenburns="on" data-duration="9000" data-ease="Linear.easeNone" data-scalestart="100" data-scaleend="110" data-rotatestart="0" data-rotateend="0" data-blurstart="0" data-blurend="0" data-offsetstart="0 0" data-offsetend="0 0" data-bgparallax="off" class="rev-slidebg" data-no-retina="">
 											<!-- LAYERS -->
 											<!-- LAYER NR. 1 -->
-											<div class="tp-caption nicdarkwithlight50   tp-resizeme rs-parallaxlevel-3" id="slide-10-layer-1" data-x="center" data-hoffset="-20" data-y="center" data-voffset="-150" data-width="[&#39;auto&#39;]" data-height="[&#39;auto&#39;]" data-type="text" data-responsive_offset="on" data-frames="[{&quot;delay&quot;:3000,&quot;speed&quot;:2000,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;x:-50px;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:300,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;nothing&quot;}]" data-textalign="[&#39;left&#39;,&#39;left&#39;,&#39;left&#39;,&#39;left&#39;]" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 5; white-space: nowrap; font-weight: 300; color: rgba(255,255,255,1); letter-spacing: px;font-family:Open Sans;">THE </div>
+											<div class="tp-caption nicdarkwithlight50   tp-resizeme rs-parallaxlevel-3" id="slide-10-layer-1" data-x="center" data-hoffset="-20" data-y="center" data-voffset="-150" data-width="[&#39;auto&#39;]" data-height="[&#39;auto&#39;]" data-type="text" data-responsive_offset="on" data-frames="[{&quot;delay&quot;:3000,&quot;speed&quot;:2000,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;x:-50px;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:300,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;nothing&quot;}]" data-textalign="[&#39;left&#39;,&#39;left&#39;,&#39;left&#39;,&#39;left&#39;]" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 5; white-space: nowrap; font-weight: 300; color: rgba(255,255,255,1); letter-spacing: px;font-family:Open Sans;">TRAVELLING <small> </small> </div>
 											<!-- LAYER NR. 2 -->
-											<div class="tp-caption nicdarkwithregular75   tp-resizeme rs-parallaxlevel-4" id="slide-10-layer-2" data-x="center" data-hoffset="20" data-y="center" data-voffset="-60" data-width="[&#39;auto&#39;]" data-height="[&#39;auto&#39;]" data-type="text" data-responsive_offset="on" data-frames="[{&quot;delay&quot;:4100,&quot;speed&quot;:2000,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;x:-50px;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:300,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;nothing&quot;}]" data-textalign="[&#39;left&#39;,&#39;left&#39;,&#39;left&#39;,&#39;left&#39;]" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 6; white-space: nowrap; font-weight: 400; color: rgba(255,255,255,1); letter-spacing: px;font-family:Open Sans;">INDIA </div>
+											<div class="tp-caption nicdarkwithregular75   tp-resizeme rs-parallaxlevel-4" id="slide-10-layer-2" data-x="center" data-hoffset="20" data-y="center" data-voffset="-60" data-width="[&#39;auto&#39;]" data-height="[&#39;auto&#39;]" data-type="text" data-responsive_offset="on" data-frames="[{&quot;delay&quot;:4100,&quot;speed&quot;:2000,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;x:-50px;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:300,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;nothing&quot;}]" data-textalign="[&#39;left&#39;,&#39;left&#39;,&#39;left&#39;,&#39;left&#39;]" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 6; white-space: nowrap; font-weight: 400; color: rgba(255,255,255,1); letter-spacing: px;font-family:Open Sans;">is the </div>
 											<!-- LAYER NR. 3 -->
-											<div class="tp-caption nicdarkwithlight75   tp-resizeme rs-parallaxlevel-4" id="slide-10-layer-3" data-x="center" data-hoffset="250" data-y="center" data-voffset="-60" data-width="[&#39;auto&#39;]" data-height="[&#39;auto&#39;]" data-type="text" data-responsive_offset="on" data-frames="[{&quot;delay&quot;:4200,&quot;speed&quot;:2000,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;x:-50px;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:300,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;nothing&quot;}]" data-textalign="[&#39;left&#39;,&#39;left&#39;,&#39;left&#39;,&#39;left&#39;]" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 7; white-space: nowrap; font-weight: 300; color: rgba(255,255,255,1); letter-spacing: px;font-family:Open Sans;">GATE </div>
+											<div class="tp-caption nicdarkwithlight75   tp-resizeme rs-parallaxlevel-4" id="slide-10-layer-3" data-x="center" data-hoffset="250" data-y="center" data-voffset="-60" data-width="[&#39;auto&#39;]" data-height="[&#39;auto&#39;]" data-type="text" data-responsive_offset="on" data-frames="[{&quot;delay&quot;:4200,&quot;speed&quot;:2000,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;x:-50px;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:300,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;nothing&quot;}]" data-textalign="[&#39;left&#39;,&#39;left&#39;,&#39;left&#39;,&#39;left&#39;]" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 7; white-space: nowrap; font-weight: 300; color: rgba(255,255,255,1); letter-spacing: px;font-family:Open Sans;">SPICE </div>
 											<!-- LAYER NR. 4 -->
-											<div class="tp-caption nicdarkwithlight40   tp-resizeme rs-parallaxlevel-2" id="slide-10-layer-4" data-x="982" data-y="259" data-width="[&#39;auto&#39;]" data-height="[&#39;auto&#39;]" data-type="text" data-responsive_offset="on" data-frames="[{&quot;delay&quot;:5000,&quot;speed&quot;:2000,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:-50px;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:300,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;nothing&quot;}]" data-textalign="[&#39;left&#39;,&#39;left&#39;,&#39;left&#39;,&#39;left&#39;]" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 8; white-space: nowrap; font-weight: 300; color: rgba(255,255,255,1); letter-spacing: px;font-family:Open Sans;">TOUR </div>
+											<div class="tp-caption nicdarkwithlight40   tp-resizeme rs-parallaxlevel-2" id="slide-10-layer-4" data-x="982" data-y="259" data-width="[&#39;auto&#39;]" data-height="[&#39;auto&#39;]" data-type="text" data-responsive_offset="on" data-frames="[{&quot;delay&quot;:5000,&quot;speed&quot;:2000,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:-50px;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:300,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;nothing&quot;}]" data-textalign="[&#39;left&#39;,&#39;left&#39;,&#39;left&#39;,&#39;left&#39;]" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 8; white-space: nowrap; font-weight: 300; color: rgba(255,255,255,1); letter-spacing: px;font-family:Open Sans;">LIFE </div>
 											<!-- LAYER NR. 5 -->
-											<div class="tp-caption nicdarkwithlight20   tp-resizeme rs-parallaxlevel-1" id="slide-10-layer-5" data-x="983" data-y="237" data-width="[&#39;auto&#39;]" data-height="[&#39;auto&#39;]" data-type="text" data-responsive_offset="on" data-frames="[{&quot;delay&quot;:5200,&quot;speed&quot;:2000,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:-50px;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:300,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;nothing&quot;}]" data-textalign="[&#39;left&#39;,&#39;left&#39;,&#39;left&#39;,&#39;left&#39;]" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 9; white-space: nowrap; font-weight: 300; color: rgba(255,255,255,1); letter-spacing: px;font-family:Open Sans;">CITY </div>
+											<div class="tp-caption nicdarkwithlight20   tp-resizeme rs-parallaxlevel-1" id="slide-10-layer-5" data-x="983" data-y="237" data-width="[&#39;auto&#39;]" data-height="[&#39;auto&#39;]" data-type="text" data-responsive_offset="on" data-frames="[{&quot;delay&quot;:5200,&quot;speed&quot;:2000,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:-50px;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:300,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;nothing&quot;}]" data-textalign="[&#39;left&#39;,&#39;left&#39;,&#39;left&#39;,&#39;left&#39;]" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 9; white-space: nowrap; font-weight: 300; color: rgba(255,255,255,1); letter-spacing: px;font-family:Open Sans;">of the </div>
 											{{-- <!-- LAYER NR. 6 -->
 											<div class="tp-caption nicdarkwithregular15btn   tp-resizeme rs-parallaxlevel-3" id="slide-10-layer-6" data-x="center" data-hoffset="150" data-y="center" data-voffset="30" data-width="[&#39;auto&#39;]" data-height="[&#39;auto&#39;]" data-type="text" data-responsive_offset="on" data-frames="[{&quot;delay&quot;:6000,&quot;speed&quot;:2000,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;x:-50px;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:300,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;nothing&quot;}]" data-textalign="[&#39;left&#39;,&#39;left&#39;,&#39;left&#39;,&#39;left&#39;]" data-paddingtop="[5,5,5,5]" data-paddingright="[10,10,10,10]" data-paddingbottom="[5,5,5,5]" data-paddingleft="[10,10,10,10]" style="z-index: 10; white-space: nowrap; font-weight: 300; color: rgba(255,255,255,1); letter-spacing: px;font-family:Open Sans;background-color:rgba(243,164,107,1);">SALE </div> --}}
 											{{-- <!-- LAYER NR. 7 -->
@@ -41,7 +41,7 @@
 										<!-- SLIDE  -->
 										<li data-index="rs-16" data-transition="fade" data-slotamount="7" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="300" data-thumb="assets/images/p-17-100x50.jpg" data-rotate="0" data-saveperformance="off" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
 											<!-- MAIN IMAGE -->
-											<img src="{{ asset('assets/images/slider/slider2.png') }}" alt="" title="p-17" width="1920" height="1080" data-bgposition="center top" data-kenburns="on" data-duration="9000" data-ease="Linear.easeNone" data-scalestart="100" data-scaleend="110" data-rotatestart="0" data-rotateend="0" data-blurstart="0" data-blurend="0" data-offsetstart="0 0" data-offsetend="0 0" data-bgparallax="off" class="rev-slidebg" data-no-retina="">
+											<img src="{{ asset('assets/images/slider/halesi-travels-slider.jpg') }}" alt="" title="p-17" width="1920" height="1080" data-bgposition="center top" data-kenburns="on" data-duration="9000" data-ease="Linear.easeNone" data-scalestart="100" data-scaleend="110" data-rotatestart="0" data-rotateend="0" data-blurstart="0" data-blurend="0" data-offsetstart="0 0" data-offsetend="0 0" data-bgparallax="off" class="rev-slidebg" data-no-retina="">
 											<!-- LAYERS -->
 											<!-- LAYER NR. 9 -->
 											<div class="tp-caption nicdarkwithlight50   tp-resizeme rs-parallaxlevel-3" id="slide-16-layer-1" data-x="center" data-hoffset="-470" data-y="center" data-voffset="-200" data-width="[&#39;auto&#39;]" data-height="[&#39;auto&#39;]" data-type="text" data-responsive_offset="on" data-frames="[{&quot;delay&quot;:1000,&quot;speed&quot;:4000,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;x:-50px;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:300,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;nothing&quot;}]" data-textalign="[&#39;left&#39;,&#39;left&#39;,&#39;left&#39;,&#39;left&#39;]" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 5; white-space: nowrap; font-weight: 300; color: rgba(255,255,255,1); letter-spacing: px;font-family:Open Sans;">INDIA </div>
@@ -403,18 +403,18 @@
 				<div class="wpb_column vc_column_container vc_col-sm-12">
 					<div class="vc_column-inner ">
 						<div class="wpb_wrapper">
-							<h3 style="color:#ffffff; padding:px; text-align:center; font-size:px; line-height:px; letter-spacing: px; font-weight:normal;" class="   nd_options_first_font ">SUMMER PROMOTION</h3>
+							<h3 style="color:#ffffff; padding:px; text-align:center; font-size:px; line-height:px; letter-spacing: px; font-weight:normal;" class="   nd_options_first_font ">Traveling opens door to creating memories</h3>
 							<div style="background-color:; height: 20px;" class="nicdark_section  "></div>
 							<div class="nd_options_section nd_options_line_height_0  nd_options_text_align_center ">
 								<span style="height:2px; width:30px; background-color:#ffffff;" class="nd_options_display_inline_block"></span>
 							</div>
 							<div style="background-color:; height: 20px;" class="nicdark_section  "></div>
-							<h1 style="color:#ffffff; padding:px; text-align:center; font-size:px; line-height:px; letter-spacing: px; font-weight:normal;" class="   nd_options_first_font ">SANTORINI - GREEK ISLAND TOUR</h1>
+							<h1 style="color:#ffffff; padding:px; text-align:center; font-size:px; line-height:px; letter-spacing: px; font-weight:normal;" class="   nd_options_first_font ">FULLY DESIGNED TOUR PACKAGES</h1>
 							<div style="background-color:; height: 20px;" class="nicdark_section  "></div>
-							<h3 style="color:#ffffff; padding:px; text-align:center; font-size:px; line-height:px; letter-spacing: px; font-weight:normal;" class="   nd_options_first_font ">1000 $ for person - 6 nights</h3>
+							<h3 style="color:#ffffff; padding:px; text-align:center; font-size:px; line-height:px; letter-spacing: px; font-weight:normal;" class="   nd_options_first_font ">Comfortable pricing with higher satisfaction</h3>
 							<div style="background-color:; height: 30px;" class="nicdark_section  "></div>
 							<div class="nd_options_section nd_options_text_align_center">
-								<a style="border: px solid ; border-radius:px; letter-spacing:px; line-height:17px; font-size:17px; background-color:#14b9d5; padding:10px 20px; margin:; color:#ffffff;" rel="" href="javascript:;" class="nicdark_display_inline_block  nd_options_font_weight_normal   ">MORE DETAILS</a>
+								<a style="border: px solid ; border-radius:px; letter-spacing:px; line-height:17px; font-size:17px; background-color:#14b9d5; padding:10px 20px; margin:; color:#ffffff;" rel="" href="#contact-us" class="nicdark_display_inline_block  nd_options_font_weight_normal   ">CONTACT US</a>
 							</div>
 						</div>
 					</div>
@@ -869,7 +869,7 @@
 															<div class="nd_travel_section nd_travel_height_20"></div>
 														</div> -->
 														<div class="nd_travel_section">
-															<a href="javascript:;" class="nd_travel_packages_pg_l2_button nd_options_color_white nd_travel_border_1_solid_white nd_travel_padding_10_20 nd_options_second_font_important nd_travel_border_radius_0_important nd_travel_line_height_20 nd_travel_background_color_transparent_important nd_travel_cursor_pointer nd_travel_display_inline_block">DETAILS</a>
+															<a href="#contact-us" class="nd_travel_packages_pg_l2_button nd_options_color_white nd_travel_border_1_solid_white nd_travel_padding_10_20 nd_options_second_font_important nd_travel_border_radius_0_important nd_travel_line_height_20 nd_travel_background_color_transparent_important nd_travel_cursor_pointer nd_travel_display_inline_block">DETAILS</a>
 														</div>
 													</div>
 												</div>
@@ -886,7 +886,7 @@
 												<h3 class="nd_travel_font_weight_normal nd_travel_box_sizing_border_box">Train Ticket Booking</h3>
 											</a>
 											<div class="nd_travel_section nd_travel_height_20"></div>
-											<p class="nd_travel_packages_pg_l2_responsive_text_preview">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ut efficitur ante. Donec dapibus dictum scelerisque.</p>
+											<p class="nd_travel_packages_pg_l2_responsive_text_preview">Get a sound sleep at night and Get a window seat during the day to relax on you train journey. Enjoy our train ticket booking service on your Delhi tour.</p>
 											<div class="nd_travel_section nd_travel_height_20"></div>
 											<!-- <a style="background-color:#f76570" class="nd_travel_packages_pg_l2_responsive_price nd_travel_font_size_20 nd_travel_float_left nd_travel_padding_10_20 nd_options_color_white" href="javascript:;">
 											<span class="">400</span>  <span class="nd_travel_font_size_20">$</span>
@@ -906,7 +906,7 @@
 														<h4 class="nd_options_color_grey nd_travel_border_bottom_1_solid_grey nd_travel_bg_grey nd_travel_font_weight_normal nd_travel_padding_20 nd_travel_box_sizing_border_box">Train Ticket Booking</h4>
 													</a>
 													<div class="nd_travel_section nd_travel_padding_20 nd_travel_box_sizing_border_box">
-														<p class="nd_travel_packages_pg_l2_text_preview">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ut efficitur ante. Donec dapibus dictum scelerisque.</p>
+														<p class="nd_travel_packages_pg_l2_text_preview">Get a sound sleep at night and Get a window seat during the day to relax on you train journey. Enjoy our train ticket booking service on your Delhi tour.</p>
 													</div>
 													<div class="nd_travel_packages_pg_l2_typologies_list_icons nd_travel_section nd_travel_padding_bottom_20 nd_travel_padding_left_20 nd_travel_padding_right_20 nd_travel_box_sizing_border_box"></div>
 												</div>
@@ -921,7 +921,7 @@
 															<div class="nd_travel_section nd_travel_height_20"></div>
 														</div> -->
 														<div class="nd_travel_section">
-															<a href="javascript:;" class="nd_travel_packages_pg_l2_button nd_options_color_white nd_travel_border_1_solid_white nd_travel_padding_10_20 nd_options_second_font_important nd_travel_border_radius_0_important nd_travel_line_height_20 nd_travel_background_color_transparent_important nd_travel_cursor_pointer nd_travel_display_inline_block">DETAILS</a>
+															<a href="#contact-us" class="nd_travel_packages_pg_l2_button nd_options_color_white nd_travel_border_1_solid_white nd_travel_padding_10_20 nd_options_second_font_important nd_travel_border_radius_0_important nd_travel_line_height_20 nd_travel_background_color_transparent_important nd_travel_cursor_pointer nd_travel_display_inline_block">DETAILS</a>
 														</div>
 													</div>
 												</div>
@@ -973,7 +973,7 @@
 															<div class="nd_travel_section nd_travel_height_20"></div>
 														</div> -->
 														<div class="nd_travel_section">
-															<a href="javascript:;" class="nd_travel_packages_pg_l2_button nd_options_color_white nd_travel_border_1_solid_white nd_travel_padding_10_20 nd_options_second_font_important nd_travel_border_radius_0_important nd_travel_line_height_20 nd_travel_background_color_transparent_important nd_travel_cursor_pointer nd_travel_display_inline_block">DETAILS</a>
+															<a href="#contact-us" class="nd_travel_packages_pg_l2_button nd_options_color_white nd_travel_border_1_solid_white nd_travel_padding_10_20 nd_options_second_font_important nd_travel_border_radius_0_important nd_travel_line_height_20 nd_travel_background_color_transparent_important nd_travel_cursor_pointer nd_travel_display_inline_block">DETAILS</a>
 														</div>
 													</div>
 												</div>
@@ -998,7 +998,6 @@
 										</div>
 									</div>
 								</div>
-								<!--responsive-->
 								<div id="nd_travel_packages_pg_l2_33" class="nd_travel_masonry_item nd_travel_width_100_percentage nd_travel_width_100_percentage_responsive nd_travel_display_none_responsive" style="position: absolute; left: 0px; top: 462px;">
 									<div class="nd_travel_section nd_travel_padding_15 nd_travel_box_sizing_border_box">
 										<div class="nd_travel_section nd_travel_border_1_solid_grey nd_travel_bg_white nd_travel_overflow_hidden nd_travel_position_relative">
@@ -1025,7 +1024,7 @@
 															<div class="nd_travel_section nd_travel_height_20"></div>
 														</div> -->
 														<div class="nd_travel_section">
-															<a href="javascript:;" class="nd_travel_packages_pg_l2_button nd_options_color_white nd_travel_border_1_solid_white nd_travel_padding_10_20 nd_options_second_font_important nd_travel_border_radius_0_important nd_travel_line_height_20 nd_travel_background_color_transparent_important nd_travel_cursor_pointer nd_travel_display_inline_block">DETAILS</a>
+															<a href="#contact-us" class="nd_travel_packages_pg_l2_button nd_options_color_white nd_travel_border_1_solid_white nd_travel_padding_10_20 nd_options_second_font_important nd_travel_border_radius_0_important nd_travel_line_height_20 nd_travel_background_color_transparent_important nd_travel_cursor_pointer nd_travel_display_inline_block">DETAILS</a>
 														</div>
 													</div>
 												</div>
@@ -1033,6 +1032,112 @@
 										</div>
 									</div>
 								</div>
+								<!--responsive-->
+								<div id="nd_travel_packages_pg_l2_31" class="nd_travel_masonry_item nd_travel_width_100_percentage nd_travel_width_100_percentage_responsive nd_travel_display_none_responsive" style="position: absolute; left: 0px; top: 231px;">
+									<div class="nd_travel_section nd_travel_padding_15 nd_travel_box_sizing_border_box">
+										<div class="nd_travel_section nd_travel_border_1_solid_grey nd_travel_bg_white nd_travel_overflow_hidden nd_travel_position_relative">
+											<div style="background-image:url(assets/images/services/money-exchange.jpg)" class=" nd_travel_packages_pg_l2_image nd_travel_float_left nd_travel_width_30_percentage nd_travel_left_0 nd_travel_top_0 nd_travel_position_absolute nd_travel_height_100_percentage nd_travel_background_size_cover nd_travel_background_position_center">       
+											</div>
+											<div class=" nd_travel_packages_pg_middle_content nd_travel_float_left nd_travel_width_50_percentage nd_travel_margin_left_30_percentage">
+												<div class="nd_travel_section nd_travel_bg_white nd_travel_min_height_150">
+													<a class="nd_travel_packages_pg_l2_title" href="javascript:;">
+														<h4 class="nd_options_color_grey nd_travel_border_bottom_1_solid_grey nd_travel_bg_grey nd_travel_font_weight_normal nd_travel_padding_20 nd_travel_box_sizing_border_box">Money Exchange</h4>
+													</a>
+													<div class="nd_travel_section nd_travel_padding_20 nd_travel_box_sizing_border_box">
+														<p class="nd_travel_packages_pg_l2_text_preview">Spend your money as you wish to and no matter where you are from. Benefit more from our Money exchange services. Wish to see you hand full of money on your trip.</p>
+													</div>
+													<div class="nd_travel_packages_pg_l2_typologies_list_icons nd_travel_section nd_travel_padding_bottom_20 nd_travel_padding_left_20 nd_travel_padding_right_20 nd_travel_box_sizing_border_box"></div>
+												</div>
+											</div>
+											<div style="background-color:#f76570" class=" nd_travel_packages_pg_l2_right_content nd_travel_float_left nd_travel_width_20_percentage nd_travel_top_0 nd_travel_right_0 nd_travel_text_align_center nd_travel_height_100_percentage nd_travel_position_absolute nd_travel_padding_0_30 nd_travel_box_sizing_border_box">
+												<div class="nd_travel_section nd_travel_display_table nd_travel_height_100_percentage">
+													<div class="nd_travel_section nd_travel_display_table_cell nd_travel_vertical_align_middle nd_travel_float_initial">
+														<!-- <div class="nd_travel_section">
+															<a class="nd_travel_packages_pg_l2_price nd_options_color_white nd_travel_font_size_30" href="javascript:;">
+															<span class="">400</span>  <span class="nd_travel_font_size_20">$</span>
+															</a>
+															<div class="nd_travel_section nd_travel_height_20"></div>
+														</div> -->
+														<div class="nd_travel_section">
+															<a href="#contact-us" class="nd_travel_packages_pg_l2_button nd_options_color_white nd_travel_border_1_solid_white nd_travel_padding_10_20 nd_options_second_font_important nd_travel_border_radius_0_important nd_travel_line_height_20 nd_travel_background_color_transparent_important nd_travel_cursor_pointer nd_travel_display_inline_block">DETAILS</a>
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<!--responsive-->
+								<div id="nd_travel_packages_pg_l2_responsive_33" class="nd_travel_masonry_item nd_travel_width_100_percentage nd_travel_width_100_percentage_responsive nd_travel_display_none nd_travel_display_block_responsive" style="position: absolute; left: 0px; top: 462px;">
+									<div class="nd_travel_section nd_travel_padding_15 nd_travel_box_sizing_border_box">
+										<img class="nd_travel_section" alt="" src="{{ asset('assets/images/services/money-exchange.jpg') }}">
+										<div class="nd_travel_section nd_travel_border_1_solid_grey nd_travel_padding_20 nd_travel_box_sizing_border_box nd_travel_bg_white nd_travel_overflow_hidden nd_travel_position_relative">
+											<a class="nd_travel_packages_pg_l2_responsive_title" href="javascript:;">
+												<h3 class="nd_travel_font_weight_normal nd_travel_box_sizing_border_box">Money Exchange</h3>
+											</a>
+											<div class="nd_travel_section nd_travel_height_20"></div>
+											<p class="nd_travel_packages_pg_l2_responsive_text_preview">Spend your money as you wish to and no matter where you are from. Benefit more from our Money exchange services. Wish to see you hand full of money on your trip.</p>
+											<div class="nd_travel_section nd_travel_height_20"></div>
+											<!-- <a style="background-color:#ba71da" class="nd_travel_packages_pg_l2_responsive_price nd_travel_font_size_20 nd_travel_float_left nd_travel_padding_10_20 nd_options_color_white" href="javascript:;">
+											<span class="">700</span>  <span class="nd_travel_font_size_20">$</span>
+											</a> -->
+										</div>
+									</div>
+								</div>
+								<!--responsive-->
+								<!--responsive-->
+								<div id="nd_travel_packages_pg_l2_31" class="nd_travel_masonry_item nd_travel_width_100_percentage nd_travel_width_100_percentage_responsive nd_travel_display_none_responsive" style="position: absolute; left: 0px; top: 231px;">
+									<div class="nd_travel_section nd_travel_padding_15 nd_travel_box_sizing_border_box">
+										<div class="nd_travel_section nd_travel_border_1_solid_grey nd_travel_bg_white nd_travel_overflow_hidden nd_travel_position_relative">
+											<div style="background-image:url(assets/images/services/visa-services.png)" class=" nd_travel_packages_pg_l2_image nd_travel_float_left nd_travel_width_30_percentage nd_travel_left_0 nd_travel_top_0 nd_travel_position_absolute nd_travel_height_100_percentage nd_travel_background_size_cover nd_travel_background_position_center">       
+											</div>
+											<div class=" nd_travel_packages_pg_middle_content nd_travel_float_left nd_travel_width_50_percentage nd_travel_margin_left_30_percentage">
+												<div class="nd_travel_section nd_travel_bg_white nd_travel_min_height_150">
+													<a class="nd_travel_packages_pg_l2_title" href="javascript:;">
+														<h4 class="nd_options_color_grey nd_travel_border_bottom_1_solid_grey nd_travel_bg_grey nd_travel_font_weight_normal nd_travel_padding_20 nd_travel_box_sizing_border_box">Visa services</h4>
+													</a>
+													<div class="nd_travel_section nd_travel_padding_20 nd_travel_box_sizing_border_box">
+														<p class="nd_travel_packages_pg_l2_text_preview">Spend your precious time in a country you wish and stay even more time than offered without a stress free life of running out of time with our Visa services.</p>
+													</div>
+													<div class="nd_travel_packages_pg_l2_typologies_list_icons nd_travel_section nd_travel_padding_bottom_20 nd_travel_padding_left_20 nd_travel_padding_right_20 nd_travel_box_sizing_border_box"></div>
+												</div>
+											</div>
+											<div style="background-color:#f76570" class=" nd_travel_packages_pg_l2_right_content nd_travel_float_left nd_travel_width_20_percentage nd_travel_top_0 nd_travel_right_0 nd_travel_text_align_center nd_travel_height_100_percentage nd_travel_position_absolute nd_travel_padding_0_30 nd_travel_box_sizing_border_box">
+												<div class="nd_travel_section nd_travel_display_table nd_travel_height_100_percentage">
+													<div class="nd_travel_section nd_travel_display_table_cell nd_travel_vertical_align_middle nd_travel_float_initial">
+														<!-- <div class="nd_travel_section">
+															<a class="nd_travel_packages_pg_l2_price nd_options_color_white nd_travel_font_size_30" href="javascript:;">
+															<span class="">400</span>  <span class="nd_travel_font_size_20">$</span>
+															</a>
+															<div class="nd_travel_section nd_travel_height_20"></div>
+														</div> -->
+														<div class="nd_travel_section">
+															<a href="#contact-us" class="nd_travel_packages_pg_l2_button nd_options_color_white nd_travel_border_1_solid_white nd_travel_padding_10_20 nd_options_second_font_important nd_travel_border_radius_0_important nd_travel_line_height_20 nd_travel_background_color_transparent_important nd_travel_cursor_pointer nd_travel_display_inline_block">DETAILS</a>
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<!--responsive-->
+								<div id="nd_travel_packages_pg_l2_responsive_33" class="nd_travel_masonry_item nd_travel_width_100_percentage nd_travel_width_100_percentage_responsive nd_travel_display_none nd_travel_display_block_responsive" style="position: absolute; left: 0px; top: 462px;">
+									<div class="nd_travel_section nd_travel_padding_15 nd_travel_box_sizing_border_box">
+										<img class="nd_travel_section" alt="" src="{{ asset('assets/images/services/visa-services.png') }}">
+										<div class="nd_travel_section nd_travel_border_1_solid_grey nd_travel_padding_20 nd_travel_box_sizing_border_box nd_travel_bg_white nd_travel_overflow_hidden nd_travel_position_relative">
+											<a class="nd_travel_packages_pg_l2_responsive_title" href="javascript:;">
+												<h3 class="nd_travel_font_weight_normal nd_travel_box_sizing_border_box">Visa services</h3>
+											</a>
+											<div class="nd_travel_section nd_travel_height_20"></div>
+											<p class="nd_travel_packages_pg_l2_responsive_text_preview">Spend your precious time in a country you wish and stay even more time than offered without a stress free life of running out of time with our Visa services.</p>
+											<div class="nd_travel_section nd_travel_height_20"></div>
+											<!-- <a style="background-color:#ba71da" class="nd_travel_packages_pg_l2_responsive_price nd_travel_font_size_20 nd_travel_float_left nd_travel_padding_10_20 nd_options_color_white" href="javascript:;">
+											<span class="">700</span>  <span class="nd_travel_font_size_20">$</span>
+											</a> -->
+										</div>
+									</div>
+								</div>
+								<!--responsive-->
 							</div>
 							<div style="background-color:; height: 55px;" class="nicdark_section  "></div>
 						</div>

@@ -24,6 +24,21 @@ class HomeController extends Controller
         return view('thank-you');
     }
 
+    public function termsOfServices() 
+    {
+        return view('terms-of-service');
+    }
+
+    public function privacyPolicy() 
+    {
+        return view('privacy-policy');
+    }
+
+    public function refundPolicies() 
+    {
+        return view('refund-policy');
+    }
+
     public function contact(Request $request) {
         $this->validate($request, 
             [
