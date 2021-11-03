@@ -6,6 +6,9 @@
             <ul id="menu-menu-1" class="menu">
                 <li id="menu-item-55" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-53 current_page_item menu-item-55"><a href="{{ route('welcome') }}" aria-current="page">Home</a></li>
                 <li id="menu-item-55" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-53 current_page_item menu-item-55"><a href="{{ route('aboutUs') }}" aria-current="page">About</a></li>
+                <li id="menu-item-55" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-53 current_page_item menu-item-55"><a href="{{ route('terms-of-services') }}" aria-current="page">Terms Of Services</a></li>
+                <li id="menu-item-55" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-53 current_page_item menu-item-55"><a href="{{ route('privacy-policy') }}" aria-current="page">Privacy Policies</a></li>
+                <li id="menu-item-55" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-53 current_page_item menu-item-55"><a href="{{ route('refund-policies') }}" aria-current="page">Refund Policies</a></li>
                 <li id="menu-item-55" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-53 current_page_item menu-item-55"><a href="{{ route('welcome') }}/#contact-us" aria-current="page">Contact Us</a></li>
                 <li id="menu-item-52" class="nd_options_book_now_btn menu-item menu-item-type-post_type menu-item-object-page menu-item-52"><a href="tel:+91 911141003804">Call Now</a></li>
             </ul>
